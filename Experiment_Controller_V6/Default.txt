@@ -1,0 +1,14 @@
+//Default Setting of Experiment Controller
+
+[CPU Type]
+T12
+[Number of Analog Output Cards]
+3
+[Number of Digital Output Cards]
+1
+[Online Status]
+online
+[Voltage Resolution] //In 16-bit 1=0.305mV (0~65535)
+0
+[Stop Cycle After Scan]
+no

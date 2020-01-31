@@ -1,0 +1,1696 @@
+2016.12.05 -- 15:12:14 #Program Start
+2016.12.05 -- 15:13:56 #Program Start
+2016.12.05 -- 15:14:26 #Program Start
+2016.12.05 -- 15:14:38 #Program Exit
+2016.12.05 -- 15:15:46 #Program Start
+2016.12.05 -- 15:16:07 #Program Exit
+2016.12.05 -- 15:33:10 #Program Start
+2016.12.05 -- 15:33:19 #Program Exit
+2016.12.05 -- 15:42:44 #Program Start
+2016.12.05 -- 15:43:03 #Program Exit
+2016.12.05 -- 15:45:06 #Program Start
+2016.12.05 -- 15:45:13 #Program Exit
+2016.12.05 -- 15:46:34 #Program Start
+2016.12.05 -- 15:46:39 #Program Exit
+2016.12.05 -- 15:46:50 #Program Start
+2016.12.05 -- 15:48:21 #Program Exit
+2016.12.05 -- 15:50:50 #Program Start
+2016.12.05 -- 15:51:37 #Program Start
+2016.12.05 -- 15:53:02 #Program Start
+2016.12.05 -- 15:53:26 #Program Start
+2016.12.05 -- 15:53:50 #Program Start
+2016.12.05 -- 15:57:32 #Program Start
+2016.12.05 -- 15:59:04 #Program Start
+2016.12.05 -- 15:59:56 #Program Start
+2016.12.05 -- 16:01:03 #Program Start
+2016.12.05 -- 16:03:52 #Program Start
+2016.12.05 -- 16:13:32 #Program Start
+2016.12.05 -- 16:35:25 #Program Exit
+2016.12.05 -- 16:41:11 #Program Start
+2016.12.05 -- 16:42:17 #Program Exit
+2016.12.05 -- 16:43:37 #Program Start
+2016.12.05 -- 16:43:39 #Program Exit
+2016.12.05 -- 17:03:05 #Program Start
+2016.12.05 -- 17:03:20 #Program Exit
+2016.12.05 -- 17:09:05 #Program Start
+2016.12.05 -- 17:10:09 #Program Exit
+2016.12.05 -- 17:10:42 #Program Start
+2016.12.05 -- 17:11:13 #Program Exit
+2016.12.05 -- 17:13:45 #Program Start
+2016.12.05 -- 17:13:57 #Program Exit
+2016.12.05 -- 17:15:05 #Program Start
+2016.12.05 -- 17:15:07 #Program Exit
+2016.12.05 -- 17:15:10 #Program Start
+2016.12.05 -- 17:15:24 #Program Exit
+2016.12.05 -- 17:17:55 #Program Start
+2016.12.05 -- 17:18:22 #Program Exit
+2016.12.05 -- 17:18:45 #Program Start
+2016.12.05 -- 17:21:43 #Program Exit
+2016.12.05 -- 17:21:51 #Program Start
+2016.12.05 -- 17:22:05 #Program Exit
+2016.12.05 -- 17:22:15 #Program Start
+2016.12.05 -- 17:22:33 #Program Exit
+2016.12.05 -- 17:23:06 #Program Start
+2016.12.05 -- 17:23:26 #Program Exit
+2016.12.05 -- 17:23:37 #Program Start
+2016.12.05 -- 17:23:41 #Program Exit
+2016.12.05 -- 17:24:50 #Program Start
+2016.12.05 -- 17:28:20 #Program Exit
+2016.12.09 -- 13:46:59 #Program Start
+2016.12.09 -- 13:47:14 #Program Exit
+2016.12.09 -- 14:40:24 #Program Start
+2016.12.09 -- 14:41:26 #Program Start
+2016.12.09 -- 14:42:01 #Program Start
+2016.12.09 -- 14:42:58 #Program Start
+2016.12.09 -- 14:43:33 #Program Exit
+2016.12.13 -- 14:30:30 #Program Start
+2016.12.13 -- 14:30:33 #Program Exit
+2016.12.13 -- 14:30:42 #Program Start
+2016.12.13 -- 14:33:14 #Program Start
+2016.12.13 -- 14:33:37 #Program Exit
+2016.12.13 -- 15:02:10 #Program Start
+2016.12.13 -- 15:02:13 #Program Exit
+2016.12.13 -- 15:02:30 #Program Start
+2016.12.13 -- 15:02:38 #Program Exit
+2016.12.13 -- 15:02:51 #Program Start
+2016.12.13 -- 15:03:15 #Program Exit
+2016.12.13 -- 15:03:51 #Program Start
+2016.12.13 -- 15:04:42 #Continous Run Begin
+2016.12.13 -- 15:08:17 #Program Start
+2016.12.13 -- 15:08:40 #Continous Run Begin
+2016.12.13 -- 15:08:43 #Continous Run Stop
+2016.12.13 -- 15:08:51 #Continous Run Begin
+2016.12.13 -- 15:16:35 #Program Start
+2016.12.13 -- 15:17:08 #Continous Run Begin
+2016.12.13 -- 15:17:26 #Continous Run Stop
+2016.12.13 -- 15:17:58 #Continous Run Begin
+2016.12.13 -- 15:17:58 #Scan Begin, cycle to scan 6
+2016.12.13 -- 15:18:22 #Continous Run Stop
+2016.12.13 -- 15:24:49 #Program Exit
+2016.12.13 -- 15:24:51 #Program Start
+2016.12.13 -- 15:25:42 #Continous Run Begin
+2016.12.13 -- 15:25:42 #Scan Begin, cycle to scan 6
+2016.12.13 -- 15:26:11 #Scan End, cycle complete 6
+2016.12.13 -- 15:26:28 #Continous Run Stop
+2016.12.13 -- 15:39:16 #Program Exit
+2016.12.13 -- 15:43:27 #Program Start
+2016.12.13 -- 15:44:26 #Continous Run Begin
+2016.12.13 -- 15:44:26 #Scan Begin, cycle to scan 91
+2016.12.13 -- 15:45:43 #Continous Run Stop
+2016.12.13 -- 15:46:29 #Continous Run Begin
+2016.12.13 -- 15:46:29 #Scan Begin, cycle to scan 91
+2016.12.13 -- 15:46:39 #Continous Run Stop
+2016.12.13 -- 15:48:04 #Program Exit
+2016.12.13 -- 15:48:30 #Program Start
+2016.12.13 -- 15:48:33 #Program Exit
+2016.12.13 -- 15:48:43 #Program Start
+2016.12.13 -- 15:50:35 #Continous Run Begin
+2016.12.13 -- 15:50:35 #Scan Begin, cycle to scan 91
+2016.12.13 -- 15:50:50 #Continous Run Stop
+2016.12.13 -- 15:50:56 #Program Exit
+2016.12.13 -- 15:52:12 #Program Start
+2016.12.13 -- 15:52:24 #Program Exit
+2016.12.13 -- 15:53:14 #Program Start
+2016.12.13 -- 15:54:10 #Continous Run Begin
+2016.12.13 -- 15:54:10 #Scan Begin, cycle to scan 91
+2016.12.13 -- 15:54:29 #Continous Run Stop
+2016.12.13 -- 15:58:35 #Continous Run Begin
+2016.12.13 -- 15:58:35 #Scan Begin, cycle to scan 91
+2016.12.13 -- 15:58:49 #Continous Run Stop
+2016.12.13 -- 15:59:31 #Continous Run Begin
+2016.12.13 -- 15:59:31 #Scan Begin, cycle to scan 91
+2016.12.13 -- 15:59:51 #Continous Run Stop
+2016.12.13 -- 16:07:36 #Program Exit
+2016.12.13 -- 16:07:53 #Program Start
+2016.12.13 -- 16:09:35 #Continous Run Begin
+2016.12.13 -- 16:09:35 #Scan Begin, cycle to scan 91
+2016.12.13 -- 16:13:17 #Continous Run Stop
+2016.12.13 -- 16:13:28 #Continous Run Begin
+2016.12.13 -- 16:13:28 #Scan Begin, cycle to scan 91
+2016.12.13 -- 16:14:12 #Continous Run Stop
+2016.12.13 -- 16:14:16 #Continous Run Begin
+2016.12.13 -- 16:14:16 #Scan Begin, cycle to scan 91
+2016.12.13 -- 16:20:44 #Continous Run Stop
+2016.12.13 -- 16:21:02 #Continous Run Begin
+2016.12.13 -- 16:21:02 #Scan Begin, cycle to scan 91
+2016.12.13 -- 16:53:13 #Emergency Stop
+2016.12.13 -- 16:53:16 #Emergency Stop
+2016.12.13 -- 16:54:28 #Emergency Stop
+2016.12.13 -- 16:56:17 #Program Start
+2016.12.13 -- 16:58:26 #Program Exit
+2016.12.14 -- 13:23:51 #Program Start
+2016.12.14 -- 13:26:03 #Program Start
+2016.12.14 -- 13:28:26 #Program Start
+2016.12.14 -- 13:36:39 #Program Start
+2016.12.14 -- 13:42:38 #Program Start
+2016.12.14 -- 13:45:12 #Program Start
+2016.12.14 -- 13:47:08 #Program Start
+2016.12.14 -- 13:48:17 #Program Start
+2016.12.14 -- 13:52:09 #Program Start
+2016.12.14 -- 14:05:29 #Program Start
+2016.12.14 -- 14:06:01 #Program Exit
+2016.12.14 -- 14:06:37 #Program Start
+2016.12.14 -- 14:06:54 #Program Exit
+2016.12.14 -- 14:07:09 #Program Start
+2016.12.14 -- 14:08:07 #Program Exit
+2016.12.14 -- 14:09:23 #Program Start
+2016.12.14 -- 14:09:55 #Program Exit
+2016.12.14 -- 14:15:38 #Program Start
+2016.12.14 -- 14:18:21 #Program Exit
+2016.12.14 -- 14:50:45 #Program Start
+2016.12.14 -- 14:56:54 #Program Start
+2016.12.14 -- 15:00:33 #Program Start
+2016.12.14 -- 15:01:24 #Program Start
+2016.12.14 -- 15:01:50 #Program Exit
+2016.12.14 -- 15:06:32 #Program Start
+2016.12.14 -- 15:09:26 #Program Start
+2016.12.14 -- 15:13:13 #Program Start
+2016.12.14 -- 15:14:09 #Program Start
+2016.12.14 -- 15:14:48 #Program Start
+2016.12.14 -- 15:15:50 #Program Start
+2016.12.14 -- 15:16:13 #Program Start
+2016.12.14 -- 15:20:53 #Program Start
+2016.12.14 -- 15:24:40 #Offline Continous Run
+2016.12.14 -- 15:24:40 #Offline Scan, total cycle 91
+2016.12.14 -- 15:25:57 #Program Start
+2016.12.14 -- 15:27:00 #Continous Run Begin
+2016.12.14 -- 15:27:00 #Scan Begin, cycle to scan 1
+2016.12.14 -- 15:27:08 #Scan End, cycle complete 1
+2016.12.14 -- 15:27:53 #Continous Run Stop
+2016.12.14 -- 15:28:31 #Continous Run Begin
+2016.12.14 -- 15:28:31 #Scan Begin, cycle to scan 100
+2016.12.14 -- 15:58:03 #Emergency Stop
+2016.12.14 -- 17:25:02 #Program Start
+2016.12.14 -- 17:28:45 #Offline Continous Run
+2016.12.14 -- 17:28:45 #Offline Scan, total cycle 500
+2016.12.14 -- 17:30:20 #Program Start
+2016.12.14 -- 17:31:18 #Offline Continous Run
+2016.12.14 -- 17:31:18 #Offline Scan, total cycle 100
+2016.12.14 -- 17:32:19 #Program Start
+2016.12.14 -- 17:32:44 #Offline Continous Run
+2016.12.14 -- 17:32:46 #Offline Continous Run
+2016.12.14 -- 17:32:46 #Offline Scan, total cycle 1
+2016.12.14 -- 17:35:59 #Program Start
+2016.12.14 -- 17:36:16 #Continous Run Begin
+2016.12.14 -- 17:36:16 #Scan Begin, cycle to scan 10
+2016.12.14 -- 17:36:57 #Continous Run Stop
+2016.12.14 -- 17:38:15 #Continous Run Begin
+2016.12.14 -- 17:38:15 #Scan Begin, cycle to scan 500
+2016.12.14 -- 17:45:52 #Continous Run Stop
+2016.12.14 -- 17:47:18 #Program Exit
+2016.12.14 -- 17:53:24 #Program Start
+2016.12.14 -- 17:56:29 #Continous Run Begin
+2016.12.14 -- 17:56:29 #Scan Begin, cycle to scan 500
+2016.12.14 -- 17:58:24 #Continous Run Stop
+2016.12.14 -- 17:58:54 #Continous Run Begin
+2016.12.14 -- 17:58:54 #Scan Begin, cycle to scan 500
+2016.12.14 -- 18:00:03 #Continous Run Stop
+2016.12.14 -- 18:00:05 #Program Exit
+2016.12.14 -- 18:07:25 #Program Start
+2016.12.14 -- 18:07:55 #Program Exit
+2016.12.14 -- 18:09:40 #Program Start
+2016.12.14 -- 18:14:36 #Program Start
+2016.12.14 -- 18:15:15 #Program Exit
+2016.12.14 -- 18:17:09 #Program Start
+2016.12.14 -- 18:17:44 #Continous Run Begin
+2016.12.14 -- 18:18:02 #Continous Run Stop
+2016.12.14 -- 18:20:27 #Continous Run Begin
+2016.12.14 -- 18:20:27 #Scan Begin, cycle to scan 1500
+2016.12.15 -- 11:44:46 #Program Start
+2016.12.15 -- 12:03:16 #Continous Run Begin
+2016.12.15 -- 12:13:48 #Continous Run Stop
+2016.12.15 -- 13:32:08 #Program Exit
+2016.12.15 -- 13:39:49 #Program Start
+2016.12.15 -- 13:40:36 #Continous Run Begin
+2016.12.15 -- 13:51:01 #Continous Run Stop
+2016.12.15 -- 14:44:51 #Program Exit
+2016.12.15 -- 14:58:12 #Program Start
+2016.12.15 -- 14:58:26 #Program Exit
+2016.12.15 -- 14:59:40 #Program Start
+2016.12.15 -- 14:59:47 #Program Exit
+2016.12.15 -- 15:01:13 #Program Start
+2016.12.15 -- 15:01:23 #Program Exit
+2016.12.15 -- 15:02:19 #Program Start
+2016.12.15 -- 15:02:43 #Program Exit
+2016.12.15 -- 15:14:06 #Program Start
+2016.12.15 -- 15:14:27 #Program Exit
+2016.12.15 -- 15:15:39 #Program Start
+2016.12.15 -- 15:15:59 #Program Exit
+2016.12.15 -- 15:16:55 #Program Start
+2016.12.15 -- 15:17:20 #Continous Run Begin
+2016.12.15 -- 15:17:21 #Continous Run Stop
+2016.12.15 -- 17:26:56 #Continous Run Begin
+2016.12.15 -- 17:26:56 #Scan Begin, cycle to scan 1000
+2016.12.15 -- 23:51:27 #Scan End, cycle complete 1000
+2016.12.16 -- 12:25:23 #Continous Run Stop
+2016.12.16 -- 12:37:10 #Continous Run Begin
+2016.12.16 -- 12:37:31 #Continous Run Stop
+2016.12.16 -- 12:37:45 #Continous Run Begin
+2016.12.16 -- 12:38:06 #Continous Run Stop
+2016.12.16 -- 13:22:18 #Continous Run Begin
+2016.12.16 -- 13:22:39 #Continous Run Stop
+2016.12.16 -- 13:24:32 #Continous Run Begin
+2016.12.16 -- 13:24:53 #Continous Run Stop
+2016.12.16 -- 13:26:57 #Continous Run Begin
+2016.12.16 -- 13:27:18 #Continous Run Stop
+2016.12.16 -- 13:40:22 #Continous Run Begin
+2016.12.16 -- 13:41:46 #Continous Run Stop
+2016.12.16 -- 13:41:56 #Continous Run Begin
+2016.12.16 -- 13:42:17 #Continous Run Stop
+2016.12.16 -- 14:25:08 #Program Start
+2016.12.16 -- 14:25:23 #Program Exit
+2016.12.16 -- 14:25:26 #Program Start
+2016.12.16 -- 14:26:03 #Continous Run Begin
+2016.12.16 -- 14:26:09 #Continous Run Stop
+2016.12.16 -- 17:08:04 #Program Exit
+2016.12.16 -- 17:08:15 #Program Start
+2016.12.16 -- 17:12:27 #Continous Run Begin
+2016.12.16 -- 17:12:27 #Scan Begin, cycle to scan 2000
+2016.12.16 -- 17:13:42 #Continous Run Stop
+2016.12.16 -- 17:13:56 #Continous Run Begin
+2016.12.16 -- 17:14:17 #Continous Run Stop
+2016.12.16 -- 17:15:28 #Program Exit
+2016.12.16 -- 17:19:03 #Program Start
+2016.12.16 -- 17:29:06 #Continous Run Begin
+2016.12.16 -- 17:29:06 #Scan Begin, cycle to scan 2000
+2016.12.16 -- 17:29:20 #Continous Run Stop
+2016.12.16 -- 17:29:30 #Continous Run Begin
+2016.12.16 -- 17:29:30 #Scan Begin, cycle to scan 2000
+2016.12.19 -- 12:57:41 #Program Start
+2016.12.19 -- 14:01:09 #Continous Run Begin
+2016.12.19 -- 14:01:09 #Scan Begin, cycle to scan 2000
+2016.12.19 -- 20:41:32 #Scan End, cycle complete 2000
+2016.12.20 -- 11:34:45 #Continous Run Stop
+2016.12.20 -- 11:34:53 #Program Exit
+2016.12.21 -- 13:26:11 #Program Start
+2016.12.21 -- 14:21:52 #Program Exit
+2016.12.21 -- 14:23:21 #Program Start
+2016.12.21 -- 14:23:36 #Program Exit
+2016.12.21 -- 14:59:14 #Program Start
+2016.12.21 -- 14:59:28 #Program Exit
+2016.12.22 -- 14:07:43 #Program Start
+2016.12.22 -- 14:10:54 #Program Exit
+2016.12.22 -- 14:13:18 #Program Start
+2016.12.22 -- 14:13:45 #Program Exit
+2016.12.22 -- 14:22:20 #Program Start
+2016.12.22 -- 14:22:58 #Program Start
+2016.12.22 -- 14:24:05 #Program Start
+2016.12.22 -- 14:24:53 #Program Exit
+2016.12.22 -- 14:32:33 #Program Start
+2016.12.22 -- 14:33:22 #Program Exit
+2016.12.22 -- 14:43:00 #Program Start
+2016.12.22 -- 14:43:53 #Program Start
+2016.12.22 -- 14:44:38 #Program Exit
+2016.12.22 -- 14:44:42 #Program Exit
+2016.12.22 -- 14:44:45 #Program Start
+2016.12.22 -- 14:44:56 #Program Exit
+2016.12.22 -- 14:47:00 #Program Start
+2016.12.22 -- 14:47:42 #Program Exit
+2016.12.22 -- 14:47:59 #Program Start
+2016.12.22 -- 14:48:17 #Program Exit
+2016.12.22 -- 14:50:22 #Program Start
+2016.12.22 -- 14:50:59 #Program Exit
+2016.12.22 -- 14:52:41 #Program Start
+2016.12.22 -- 14:52:49 #Program Exit
+2016.12.22 -- 14:53:00 #Program Start
+2016.12.22 -- 14:53:12 #Program Exit
+2016.12.22 -- 14:57:26 #Program Start
+2016.12.22 -- 14:57:53 #Program Exit
+2016.12.22 -- 14:58:01 #Program Start
+2016.12.22 -- 14:58:12 #Program Exit
+2016.12.22 -- 15:03:28 #Program Start
+2016.12.22 -- 15:03:42 #Program Exit
+2016.12.22 -- 15:03:59 #Program Start
+2016.12.22 -- 15:04:15 #Program Exit
+2016.12.22 -- 15:07:06 #Program Start
+2016.12.22 -- 15:07:40 #Program Exit
+2016.12.22 -- 15:07:53 #Program Start
+2016.12.22 -- 15:08:12 #Program Exit
+2016.12.22 -- 15:33:40 #Program Start
+2016.12.22 -- 15:34:16 #Program Exit
+2016.12.22 -- 16:57:19 #Program Start
+2016.12.22 -- 16:57:38 #Program Exit
+2016.12.22 -- 16:58:26 #Program Start
+2016.12.22 -- 16:58:40 #Program Exit
+2016.12.22 -- 16:59:49 #Program Start
+2016.12.22 -- 17:00:00 #Program Exit
+2016.12.27 -- 12:17:12 #Program Start
+2016.12.27 -- 12:17:37 #Program Exit
+2016.12.27 -- 12:18:18 #Program Start
+2016.12.27 -- 12:18:27 #Program Exit
+2016.12.27 -- 12:28:14 #Program Start
+2016.12.27 -- 12:30:32 #Program Exit
+2016.12.27 -- 13:02:23 #Program Start
+2016.12.27 -- 13:02:40 #Program Exit
+2016.12.27 -- 14:34:52 #Program Start
+2016.12.27 -- 14:35:50 #Continous Run Begin
+2016.12.27 -- 14:35:50 #Scan Begin, cycle to scan 2000
+2016.12.27 -- 17:18:39 #Program Start
+2016.12.27 -- 17:18:42 #Program Exit
+2016.12.28 -- 11:47:03 #Program Start
+2016.12.28 -- 11:47:38 #Continous Run Begin
+2016.12.28 -- 11:47:38 #Scan Begin, cycle to scan 2000
+2016.12.28 -- 11:48:28 #Continous Run Stop
+2016.12.28 -- 11:51:03 #Program Exit
+2016.12.28 -- 11:51:08 #Program Start
+2016.12.28 -- 11:51:46 #Continous Run Begin
+2016.12.28 -- 11:51:46 #Scan Begin, cycle to scan 2000
+2016.12.28 -- 15:31:07 #Scan End, cycle complete 2000
+2016.12.28 -- 16:31:26 #Continous Run Stop
+2016.12.28 -- 16:31:29 #Program Exit
+2016.12.29 -- 12:15:05 #Program Start
+2016.12.29 -- 12:15:06 #Program Exit
+2016.12.29 -- 15:40:42 #Program Start
+2016.12.29 -- 15:42:35 #Continous Run Begin
+2016.12.29 -- 15:42:35 #Scan Begin, cycle to scan 2001
+2016.12.29 -- 22:31:55 #Scan End, cycle complete 2001
+2016.12.30 -- 13:07:41 #Program Start
+2016.12.30 -- 13:09:35 #Program Exit
+2016.12.30 -- 13:11:59 #Program Start
+2016.12.30 -- 13:12:46 #Program Exit
+2016.12.30 -- 13:19:02 #Program Start
+2016.12.30 -- 13:20:03 #Continous Run Begin
+2016.12.30 -- 13:20:03 #Scan Begin, cycle to scan 2000
+2016.12.30 -- 17:02:12 #Continous Run Stop
+2016.12.30 -- 17:02:15 #Program Exit
+2017.01.04 -- 12:28:35 #Program Start
+2017.01.04 -- 12:29:18 #Program Exit
+2017.01.04 -- 12:42:25 #Program Start
+2017.01.04 -- 12:42:33 #Program Exit
+2017.01.04 -- 12:44:01 #Program Start
+2017.01.04 -- 12:44:40 #Program Exit
+2017.01.04 -- 12:49:29 #Program Start
+2017.01.04 -- 12:49:45 #Program Exit
+2017.01.04 -- 12:51:21 #Program Start
+2017.01.04 -- 12:52:16 #Program Exit
+2017.01.04 -- 12:53:14 #Program Start
+2017.01.04 -- 12:53:40 #Program Exit
+2017.01.04 -- 12:55:01 #Program Start
+2017.01.04 -- 12:55:27 #Program Exit
+2017.01.04 -- 13:09:28 #Program Start
+2017.01.04 -- 13:09:43 #Program Exit
+2017.01.04 -- 13:28:10 #Program Start
+2017.01.04 -- 13:28:58 #Program Exit
+2017.01.04 -- 13:31:19 #Program Start
+2017.01.04 -- 13:34:19 #Program Exit
+2017.01.04 -- 13:34:22 #Program Start
+2017.01.04 -- 13:34:48 #Program Exit
+2017.01.04 -- 13:37:51 #Program Start
+2017.01.04 -- 13:38:06 #Program Exit
+2017.01.04 -- 13:40:04 #Program Start
+2017.01.04 -- 13:40:36 #Program Exit
+2017.01.04 -- 13:42:25 #Program Start
+2017.01.04 -- 13:42:40 #Program Exit
+2017.01.04 -- 13:43:01 #Program Start
+2017.01.04 -- 13:43:32 #Program Exit
+2017.01.04 -- 13:43:38 #Program Start
+2017.01.04 -- 13:44:31 #Program Exit
+2017.01.04 -- 13:45:33 #Program Start
+2017.01.04 -- 13:45:43 #Program Exit
+2017.01.04 -- 13:46:25 #Program Start
+2017.01.04 -- 13:47:50 #Program Exit
+2017.01.04 -- 13:47:52 #Program Start
+2017.01.04 -- 13:48:07 #Program Exit
+2017.01.04 -- 14:23:05 #Program Start
+2017.01.04 -- 14:24:52 #Program Exit
+2017.01.04 -- 14:27:29 #Program Start
+2017.01.04 -- 14:27:31 #Program Exit
+2017.01.04 -- 14:43:44 #Program Start
+2017.01.04 -- 15:02:21 #Program Exit
+2017.01.04 -- 15:20:28 #Program Start
+2017.01.04 -- 15:21:07 #Program Exit
+2017.01.04 -- 15:39:01 #Program Start
+2017.01.04 -- 15:39:52 #Program Exit
+2017.01.04 -- 15:40:43 #Program Start
+2017.01.04 -- 15:40:58 #Program Exit
+2017.01.04 -- 15:41:22 #Program Start
+2017.01.04 -- 15:41:55 #Program Exit
+2017.01.04 -- 15:43:32 #Program Start
+2017.01.04 -- 15:43:45 #Program Exit
+2017.01.04 -- 15:57:51 #Program Start
+2017.01.04 -- 15:57:59 #Program Exit
+2017.01.04 -- 16:14:46 #Program Start
+2017.01.04 -- 16:15:31 #Program Exit
+2017.01.04 -- 16:16:56 #Program Start
+2017.01.04 -- 16:17:20 #Program Exit
+2017.01.04 -- 16:41:12 #Program Start
+2017.01.04 -- 16:41:45 #Program Exit
+2017.01.04 -- 16:42:10 #Program Start
+2017.01.04 -- 16:42:38 #Program Exit
+2017.01.04 -- 16:42:55 #Program Start
+2017.01.04 -- 16:43:45 #Program Exit
+2017.01.04 -- 16:49:41 #Program Start
+2017.01.04 -- 16:50:46 #Program Exit
+2017.01.05 -- 14:19:14 #Program Start
+2017.01.05 -- 14:19:28 #Program Exit
+2017.01.05 -- 14:19:56 #Program Start
+2017.01.05 -- 14:20:09 #Program Exit
+2017.01.05 -- 14:26:50 #Program Start
+2017.01.05 -- 14:27:19 #Program Exit
+2017.01.05 -- 14:30:58 #Program Start
+2017.01.05 -- 14:31:20 #Program Exit
+2017.01.05 -- 14:56:30 #Program Start
+2017.01.05 -- 14:56:48 #Program Exit
+2017.01.05 -- 14:59:47 #Program Start
+2017.01.05 -- 15:00:07 #Program Exit
+2017.01.05 -- 15:01:14 #Program Start
+2017.01.05 -- 15:01:27 #Program Exit
+2017.01.05 -- 15:01:36 #Program Start
+2017.01.05 -- 15:01:49 #Program Exit
+2017.01.05 -- 15:02:19 #Program Start
+2017.01.05 -- 16:10:41 #Program Exit
+2017.01.06 -- 12:05:11 #Program Start
+2017.01.06 -- 12:05:23 #Program Exit
+2017.01.06 -- 12:11:51 #Program Start
+2017.01.06 -- 12:12:21 #Program Exit
+2017.01.06 -- 12:13:54 #Program Start
+2017.01.06 -- 12:14:42 #Program Exit
+2017.01.09 -- 15:20:24 #Program Start
+2017.01.09 -- 15:21:02 #Program Start
+2017.01.09 -- 15:21:53 #Program Start
+2017.01.09 -- 15:22:12 #Program Start
+2017.01.09 -- 15:23:04 #Program Start
+2017.01.09 -- 15:23:50 #Program Exit
+2017.01.09 -- 16:08:45 #Program Start
+2017.01.09 -- 16:09:26 #Program Start
+2017.01.09 -- 16:09:35 #Program Exit
+2017.01.09 -- 16:19:25 #Program Start
+2017.01.09 -- 16:20:20 #Program Exit
+2017.01.09 -- 16:25:22 #Program Start
+2017.01.09 -- 16:26:16 #Program Exit
+2017.01.09 -- 16:29:01 #Program Start
+2017.01.09 -- 16:29:26 #Program Exit
+2017.01.09 -- 16:31:06 #Program Start
+2017.01.09 -- 16:32:35 #Program Exit
+2017.01.09 -- 16:33:38 #Program Start
+2017.01.09 -- 16:33:47 #Program Exit
+2017.01.09 -- 16:35:15 #Program Start
+2017.01.09 -- 16:35:17 #Program Exit
+2017.01.09 -- 16:35:19 #Program Start
+2017.01.09 -- 16:35:21 #Program Exit
+2017.01.09 -- 16:37:15 #Program Start
+2017.01.09 -- 16:40:09 #Program Exit
+2017.01.09 -- 16:42:06 #Program Start
+2017.01.09 -- 16:43:34 #Continous Run Begin
+2017.01.09 -- 16:45:17 #Continous Run Stop
+2017.01.09 -- 16:45:28 #Continous Run Begin
+2017.01.09 -- 16:45:28 #Scan Begin, cycle to scan 100
+2017.01.09 -- 16:45:49 #Continous Run Stop
+2017.01.09 -- 16:47:02 #Continous Run Begin
+2017.01.09 -- 16:47:57 #Continous Run Stop
+2017.01.09 -- 16:49:14 #Continous Run Begin
+2017.01.09 -- 16:49:33 #Scan Begin, cycle to scan 100
+2017.01.09 -- 16:51:06 #Continous Run Stop
+2017.01.09 -- 16:51:17 #Program Exit
+2017.01.09 -- 16:51:58 #Program Start
+2017.01.09 -- 16:52:15 #Program Exit
+2017.01.09 -- 19:15:37 #Program Start
+2017.01.09 -- 19:17:28 #Continous Run Begin
+2017.01.09 -- 19:17:28 #Scan Begin, cycle to scan 5000
+2017.01.10 -- 16:03:54 #Program Start
+2017.01.10 -- 16:14:33 #Program Exit
+2017.01.10 -- 17:18:23 #Program Start
+2017.01.10 -- 17:19:50 #Program Start
+2017.01.10 -- 17:21:25 #Program Start
+2017.01.10 -- 17:21:29 #Program Exit
+2017.01.10 -- 17:22:04 #Program Start
+2017.01.10 -- 17:23:13 #Program Start
+2017.01.10 -- 17:23:42 #Program Start
+2017.01.10 -- 17:40:48 #Program Start
+2017.01.10 -- 17:45:26 #Program Start
+2017.01.10 -- 17:47:35 #Program Start
+2017.01.10 -- 17:47:58 #Program Exit
+2017.01.10 -- 17:48:07 #Program Start
+2017.01.10 -- 17:49:09 #Program Start
+2017.01.10 -- 17:51:42 #Program Start
+2017.01.10 -- 17:52:15 #Program Exit
+2017.01.10 -- 17:53:53 #Program Start
+2017.01.10 -- 18:03:20 #Program Start
+2017.01.10 -- 18:04:25 #Program Start
+2017.01.10 -- 18:04:46 #Program Exit
+2017.01.10 -- 18:13:47 #Program Start
+2017.01.10 -- 18:14:40 #Program Exit
+2017.01.10 -- 18:14:55 #Program Start
+2017.01.10 -- 18:15:56 #Program Exit
+2017.01.10 -- 18:47:46 #Program Start
+2017.01.10 -- 18:48:39 #Program Exit
+2017.01.10 -- 18:49:35 #Program Start
+2017.01.10 -- 18:50:36 #Program Exit
+2017.01.10 -- 18:54:01 #Program Start
+2017.01.10 -- 18:54:47 #Program Exit
+2017.01.10 -- 18:56:16 #Program Start
+2017.01.10 -- 18:56:18 #Program Exit
+2017.01.10 -- 18:56:36 #Program Start
+2017.01.10 -- 19:14:05 #Program Exit
+2017.01.11 -- 13:05:20 #Program Start
+2017.01.11 -- 13:08:38 #Program Exit
+2017.01.11 -- 13:10:22 #Program Start
+2017.01.11 -- 13:13:55 #Program Exit
+2017.01.11 -- 13:19:23 #Program Start
+2017.01.11 -- 13:19:41 #Program Exit
+2017.01.11 -- 13:27:04 #Program Start
+2017.01.11 -- 13:29:05 #Program Exit
+2017.01.11 -- 13:29:24 #Program Start
+2017.01.11 -- 13:29:45 #Program Exit
+2017.01.11 -- 13:29:51 #Program Start
+2017.01.11 -- 13:30:10 #Program Exit
+2017.01.11 -- 13:30:19 #Program Start
+2017.01.11 -- 13:30:51 #Program Exit
+2017.01.11 -- 16:31:18 #Program Start
+2017.01.11 -- 16:32:27 #Program Exit
+2017.01.11 -- 17:34:11 #Program Start
+2017.01.11 -- 17:35:52 #Program Start
+2017.01.11 -- 17:35:54 #Program Exit
+2017.01.11 -- 17:38:34 #Program Start
+2017.01.11 -- 17:55:35 #Program Start
+2017.01.11 -- 18:12:55 #Program Start
+2017.01.12 -- 14:19:29 #Program Start
+2017.01.12 -- 14:20:15 #Program Exit
+2017.01.12 -- 14:24:20 #Program Start
+2017.01.12 -- 14:24:36 #Program Exit
+2017.01.12 -- 14:26:16 #Program Start
+2017.01.12 -- 14:27:54 #Program Start
+2017.01.12 -- 14:28:41 #Program Exit
+2017.01.12 -- 14:33:54 #Program Start
+2017.01.12 -- 14:52:29 #Program Exit
+2017.01.12 -- 14:52:32 #Program Start
+2017.01.12 -- 14:53:44 #Program Start
+2017.01.12 -- 14:54:12 #Program Start
+2017.01.12 -- 14:54:58 #Program Start
+2017.01.12 -- 14:55:27 #Program Start
+2017.01.12 -- 14:55:59 #Program Start
+2017.01.12 -- 14:56:23 #Program Exit
+2017.01.12 -- 14:56:59 #Program Start
+2017.01.12 -- 14:57:02 #Program Exit
+2017.01.12 -- 14:58:50 #Program Start
+2017.01.12 -- 14:59:07 #Program Exit
+2017.01.12 -- 14:59:21 #Program Start
+2017.01.12 -- 15:00:05 #Program Start
+2017.01.12 -- 15:01:21 #Program Start
+2017.01.12 -- 17:35:34 #Program Start
+2017.01.12 -- 17:37:43 #Program Start
+2017.01.12 -- 17:39:10 #Program Start
+2017.01.12 -- 17:53:05 #Program Start
+2017.01.12 -- 17:54:30 #Program Start
+2017.01.12 -- 17:55:35 #Program Exit
+2017.01.12 -- 17:57:18 #Program Start
+2017.01.12 -- 17:57:59 #Program Exit
+2017.01.12 -- 17:58:59 #Program Start
+2017.01.12 -- 18:00:05 #Program Exit
+2017.01.12 -- 18:00:41 #Program Start
+2017.01.12 -- 18:01:10 #Program Exit
+2017.01.12 -- 18:02:18 #Program Start
+2017.01.12 -- 18:03:00 #Program Exit
+2017.01.12 -- 18:03:12 #Program Start
+2017.01.12 -- 18:03:19 #Program Exit
+2017.01.12 -- 18:03:44 #Program Start
+2017.01.12 -- 18:04:36 #Program Exit
+2017.01.12 -- 18:05:01 #Program Start
+2017.01.12 -- 18:05:38 #Program Exit
+2017.01.12 -- 18:06:33 #Program Start
+2017.01.12 -- 18:08:22 #Program Start
+2017.01.12 -- 18:11:43 #Program Start
+2017.01.12 -- 18:11:46 #Program Exit
+2017.01.12 -- 18:12:00 #Program Start
+2017.01.12 -- 18:12:50 #Program Exit
+2017.01.12 -- 18:13:14 #Program Start
+2017.01.12 -- 18:13:22 #Program Exit
+2017.01.16 -- 12:14:16 #Program Start
+2017.01.17 -- 15:29:58 #Program Exit
+2017.01.17 -- 17:06:23 #Program Start
+2017.01.17 -- 17:07:27 #Continous Run Begin
+2017.01.18 -- 14:33:40 #Continous Run Stop
+2017.01.19 -- 13:12:25 #Program Exit
+2017.01.19 -- 14:41:34 #Program Start
+2017.01.19 -- 14:42:23 #Program Exit
+2017.01.19 -- 14:45:05 #Program Start
+2017.01.19 -- 14:47:05 #Continous Run Begin
+2017.01.19 -- 14:47:20 #Continous Run Stop
+2017.01.19 -- 14:48:42 #Program Exit
+2017.01.19 -- 14:50:16 #Program Start
+2017.01.19 -- 14:51:25 #Continous Run Begin
+2017.01.19 -- 14:51:46 #Continous Run Stop
+2017.01.19 -- 14:51:48 #Program Exit
+2017.01.19 -- 14:53:29 #Program Start
+2017.01.19 -- 14:54:40 #Continous Run Begin
+2017.01.19 -- 14:57:59 #Program Start
+2017.01.19 -- 14:58:04 #Program Exit
+2017.01.19 -- 14:58:24 #Program Start
+2017.01.19 -- 14:58:57 #Continous Run Begin
+2017.01.19 -- 14:59:17 #Continous Run Stop
+2017.01.19 -- 14:59:48 #Continous Run Begin
+2017.01.19 -- 14:59:58 #Continous Run Stop
+2017.01.19 -- 15:01:08 #Program Exit
+2017.01.19 -- 15:23:50 #Program Start
+2017.01.19 -- 15:24:11 #Program Exit
+2017.01.19 -- 15:56:27 #Program Start
+2017.01.19 -- 15:56:59 #Program Exit
+2017.02.28 -- 09:23:54 #Program Start
+2017.02.28 -- 10:05:29 #Program Exit
+2017.02.28 -- 10:05:33 #Program Start
+2017.02.28 -- 10:06:54 #Program Start
+2017.02.28 -- 10:08:40 #Program Start
+2017.02.28 -- 10:09:10 #Program Exit
+2017.02.28 -- 10:09:17 #Program Start
+2017.02.28 -- 11:40:38 #Program Start
+2017.02.28 -- 11:41:29 #Program Start
+2017.02.28 -- 11:42:47 #Program Start
+2017.02.28 -- 11:43:54 #Program Start
+2017.02.28 -- 11:44:03 #Program Exit
+2017.02.28 -- 11:45:04 #Program Start
+2017.02.28 -- 11:45:15 #Program Exit
+2017.02.28 -- 13:00:45 #Program Start
+2017.02.28 -- 13:01:22 #Program Exit
+2017.02.28 -- 13:02:30 #Program Start
+2017.02.28 -- 13:02:55 #Program Exit
+2017.02.28 -- 13:03:43 #Program Start
+2017.02.28 -- 13:03:56 #Program Exit
+2017.02.28 -- 13:04:35 #Program Start
+2017.02.28 -- 13:04:50 #Program Exit
+2017.02.28 -- 13:08:22 #Program Start
+2017.02.28 -- 13:09:59 #Program Exit
+2017.02.28 -- 13:11:15 #Program Start
+2017.02.28 -- 13:12:14 #Program Exit
+2017.02.28 -- 13:25:45 #Program Start
+2017.02.28 -- 13:26:15 #Program Exit
+2017.02.28 -- 13:27:10 #Program Start
+2017.02.28 -- 13:28:36 #Program Exit
+2017.02.28 -- 13:28:39 #Program Start
+2017.02.28 -- 13:28:52 #Program Exit
+2017.02.28 -- 13:30:05 #Program Start
+2017.02.28 -- 13:30:13 #Program Exit
+2017.02.28 -- 13:31:02 #Program Start
+2017.02.28 -- 13:31:38 #Program Exit
+2017.02.28 -- 13:32:43 #Program Start
+2017.02.28 -- 13:33:48 #Program Exit
+2017.02.28 -- 13:33:50 #Program Start
+2017.02.28 -- 13:34:01 #Program Exit
+2017.02.28 -- 13:38:33 #Program Start
+2017.02.28 -- 13:40:01 #Program Exit
+2017.02.28 -- 13:40:51 #Program Start
+2017.02.28 -- 13:41:37 #Program Exit
+2017.02.28 -- 13:42:37 #Program Start
+2017.02.28 -- 13:44:14 #Program Exit
+2017.02.28 -- 13:45:33 #Program Start
+2017.02.28 -- 13:45:41 #Program Exit
+2017.02.28 -- 14:01:11 #Program Start
+2017.02.28 -- 14:02:04 #Program Exit
+2017.02.28 -- 16:05:59 #Program Start
+2017.02.28 -- 16:06:04 #Program Exit
+2017.02.28 -- 16:06:18 #Program Start
+2017.02.28 -- 16:07:06 #Program Exit
+2017.03.01 -- 14:39:35 #Program Start
+2017.03.01 -- 14:39:51 #Program Exit
+2017.03.01 -- 14:40:00 #Program Start
+2017.03.01 -- 14:40:07 #Program Exit
+2017.03.01 -- 15:09:39 #Program Start
+2017.03.01 -- 15:09:55 #Program Exit
+2017.03.01 -- 15:42:02 #Program Start
+2017.03.01 -- 15:42:03 #Program Exit
+2017.03.01 -- 16:18:22 #Program Start
+2017.03.01 -- 16:18:24 #Program Exit
+2017.03.01 -- 16:34:02 #Program Start
+2017.03.01 -- 16:39:54 #Program Exit
+2017.03.01 -- 16:41:22 #Program Start
+2017.03.01 -- 16:42:01 #Program Exit
+2017.03.03 -- 14:16:34 #Program Start
+2017.03.03 -- 14:19:23 #Program Exit
+2017.03.03 -- 15:31:30 #Program Start
+2017.03.03 -- 15:31:35 #Program Exit
+2017.03.14 -- 13:54:13 #Program Start
+2017.03.14 -- 18:03:30 #Program Exit
+2017.03.15 -- 11:05:28 #Program Start
+2017.03.15 -- 11:05:29 #Program Exit
+2017.03.15 -- 11:06:10 #Program Start
+2017.03.15 -- 11:06:16 #Program Exit
+2017.03.15 -- 12:09:09 #Program Start
+2017.03.15 -- 12:13:58 #Program Start
+2017.03.15 -- 12:17:21 #Program Start
+2017.03.15 -- 12:18:33 #Program Start
+2017.03.15 -- 12:20:01 #Program Start
+2017.03.15 -- 12:21:18 #Program Start
+2017.03.15 -- 12:23:24 #Program Start
+2017.03.15 -- 12:34:39 #Program Exit
+2017.03.15 -- 12:34:54 #Program Start
+2017.03.15 -- 12:36:12 #Program Exit
+2017.03.15 -- 12:41:12 #Program Start
+2017.03.15 -- 12:41:14 #Program Exit
+2017.03.15 -- 15:25:53 #Program Start
+2017.03.15 -- 15:25:55 #Program Exit
+2017.03.15 -- 15:41:40 #Program Start
+2017.03.15 -- 15:41:43 #Program Exit
+2017.03.15 -- 15:45:31 #Program Start
+2017.03.15 -- 16:49:16 #Program Exit
+2017.03.15 -- 17:52:15 #Program Start
+2017.03.15 -- 17:52:40 #Program Exit
+2017.03.15 -- 17:53:12 #Program Start
+2017.03.15 -- 17:56:36 #Program Exit
+2017.03.17 -- 14:16:02 #Program Start
+2017.03.17 -- 14:19:24 #Program Start
+2017.03.17 -- 14:20:01 #Program Start
+2017.03.17 -- 14:23:13 #Program Start
+2017.03.17 -- 14:23:15 #Program Exit
+2017.03.17 -- 14:25:35 #Program Start
+2017.03.17 -- 16:25:59 #Program Exit
+2017.03.17 -- 16:26:01 #Program Start
+2017.03.17 -- 16:26:21 #Program Exit
+2017.03.17 -- 16:36:07 #Program Start
+2017.03.17 -- 16:41:32 #Program Exit
+2017.03.17 -- 16:56:17 #Program Start
+2017.03.17 -- 16:58:01 #Program Start
+2017.03.17 -- 16:58:24 #Program Start
+2017.03.17 -- 16:58:57 #Program Start
+2017.03.17 -- 17:00:35 #Program Exit
+2017.03.17 -- 17:02:24 #Program Start
+2017.03.17 -- 17:02:48 #Program Exit
+2017.03.17 -- 17:02:58 #Program Start
+2017.03.17 -- 17:05:11 #Program Start
+2017.03.17 -- 17:06:27 #Program Start
+2017.03.17 -- 17:08:06 #Program Start
+2017.03.17 -- 17:08:40 #Program Start
+2017.03.17 -- 17:09:42 #Program Exit
+2017.03.17 -- 17:15:08 #Program Start
+2017.03.17 -- 17:17:02 #Program Exit
+2017.03.17 -- 17:25:24 #Program Start
+2017.03.17 -- 17:25:48 #Offline Continous Run
+2017.03.17 -- 17:25:48 #Offline Scan, total cycle 9
+2017.03.17 -- 17:26:42 #Offline Continous Run
+2017.03.17 -- 17:26:42 #Offline Scan, total cycle 9
+2017.03.17 -- 17:54:16 #Offline Continous Run
+2017.03.17 -- 17:54:16 #Offline Scan, total cycle 9
+2017.03.17 -- 17:54:58 #Program Exit
+2017.03.20 -- 13:41:01 #Program Start
+2017.03.20 -- 13:41:44 #Program Exit
+2017.03.22 -- 17:33:40 #Program Start
+2017.03.22 -- 17:34:22 #Offline Continous Run
+2017.03.22 -- 17:34:22 #Offline Scan, total cycle 5
+2017.03.22 -- 18:04:29 #Program Exit
+2017.03.24 -- 15:29:41 #Program Start
+2017.03.24 -- 15:31:35 #Program Exit
+2017.03.29 -- 17:52:58 #Program Start
+2017.03.29 -- 18:20:42 #Program Exit
+2017.03.29 -- 18:23:12 #Program Start
+2017.03.29 -- 18:24:06 #Program Exit
+2017.03.30 -- 15:44:26 #Program Start
+2017.03.30 -- 15:45:46 #Continous Run Begin
+2017.03.30 -- 15:45:46 #Digital Safty Triggered Emergency Stop
+2017.03.30 -- 15:46:15 #Continous Run Begin
+2017.03.30 -- 15:46:15 #Digital Safty Triggered Emergency Stop
+2017.03.30 -- 15:47:11 #Program Exit
+2017.03.30 -- 15:49:19 #Program Start
+2017.03.30 -- 15:49:44 #Continous Run Begin
+2017.03.30 -- 15:49:48 #Continous Run Stop
+2017.03.30 -- 15:50:21 #Continous Run Begin
+2017.03.30 -- 15:52:29 #Program Start
+2017.03.30 -- 15:52:30 #Program Exit
+2017.03.30 -- 15:52:51 #Program Start
+2017.03.30 -- 15:53:33 #Continous Run Begin
+2017.03.30 -- 15:54:33 #Program Start
+2017.03.30 -- 15:55:18 #Continous Run Begin
+2017.03.30 -- 15:55:24 #Continous Run Stop
+2017.03.30 -- 15:55:48 #Continous Run Begin
+2017.03.30 -- 15:55:54 #Continous Run Stop
+2017.03.30 -- 15:56:45 #Continous Run Begin
+2017.03.30 -- 15:56:53 #Continous Run Stop
+2017.03.30 -- 15:57:29 #Continous Run Begin
+2017.04.07 -- 11:44:12 #Program Start
+2017.04.07 -- 11:44:31 #Program Exit
+2017.04.10 -- 17:13:52 #Program Start
+2017.04.10 -- 17:21:00 #Program Exit
+2017.04.10 -- 17:31:52 #Program Start
+2017.04.10 -- 17:37:03 #Program Exit
+2017.04.10 -- 17:37:53 #Program Start
+2017.04.10 -- 17:39:10 #Program Start
+2017.04.10 -- 17:46:10 #Program Start
+2017.04.10 -- 17:48:39 #Program Start
+2017.04.11 -- 13:19:09 #Program Start
+2017.04.11 -- 13:22:17 #Program Exit
+2017.04.11 -- 13:22:40 #Program Start
+2017.04.11 -- 13:22:43 #Program Exit
+2017.04.11 -- 13:23:04 #Program Start
+2017.04.11 -- 13:23:51 #Program Exit
+2017.04.11 -- 15:29:10 #Program Start
+2017.04.11 -- 15:33:22 #Program Exit
+2017.04.11 -- 15:33:36 #Program Start
+2017.04.11 -- 15:34:10 #Program Start
+2017.04.11 -- 15:34:16 #Program Exit
+2017.04.11 -- 15:34:30 #Program Start
+2017.04.11 -- 15:39:41 #Program Start
+2017.04.11 -- 15:48:42 #Program Exit
+2017.04.11 -- 15:48:54 #Program Start
+2017.04.11 -- 15:52:05 #Program Exit
+2017.04.11 -- 15:54:18 #Program Start
+2017.04.11 -- 16:03:45 #Program Start
+2017.04.11 -- 16:05:06 #Program Exit
+2017.04.11 -- 16:06:10 #Program Start
+2017.04.11 -- 16:06:13 #Program Exit
+2017.04.11 -- 16:13:32 #Program Start
+2017.04.11 -- 16:13:37 #Program Exit
+2017.04.11 -- 16:13:48 #Program Start
+2017.04.11 -- 16:14:40 #Program Exit
+2017.04.11 -- 16:15:29 #Program Start
+2017.04.11 -- 16:15:51 #Program Start
+2017.04.11 -- 16:16:53 #Program Start
+2017.04.11 -- 16:17:23 #Program Exit
+2017.04.11 -- 16:19:39 #Program Start
+2017.04.11 -- 16:20:22 #Program Exit
+2017.04.12 -- 14:20:01 #Program Start
+2017.04.12 -- 14:20:24 #Program Start
+2017.04.12 -- 14:20:47 #Program Exit
+2017.04.12 -- 14:22:06 #Program Start
+2017.04.12 -- 14:22:39 #Program Start
+2017.04.12 -- 14:23:59 #Program Exit
+2017.04.12 -- 14:29:23 #Program Start
+2017.04.12 -- 14:29:56 #Program Exit
+2017.04.12 -- 14:30:29 #Program Start
+2017.04.12 -- 14:30:34 #Program Exit
+2017.04.12 -- 14:34:59 #Program Start
+2017.04.12 -- 14:38:41 #Program Start
+2017.04.12 -- 14:40:40 #Program Exit
+2017.04.12 -- 14:40:43 #Program Start
+2017.04.12 -- 14:42:11 #Program Start
+2017.04.12 -- 14:45:41 #Program Exit
+2017.04.12 -- 14:56:09 #Program Start
+2017.04.12 -- 14:57:19 #Program Start
+2017.04.12 -- 14:59:30 #Program Start
+2017.04.12 -- 15:00:31 #Program Start
+2017.04.12 -- 15:01:12 #Program Start
+2017.04.12 -- 15:01:28 #Program Exit
+2017.04.12 -- 15:01:31 #Program Start
+2017.04.12 -- 15:07:01 #Program Start
+2017.04.12 -- 15:07:14 #Program Exit
+2017.04.12 -- 15:07:17 #Program Start
+2017.04.12 -- 15:07:29 #Program Exit
+2017.04.12 -- 15:09:49 #Program Start
+2017.04.12 -- 15:11:38 #Program Start
+2017.04.12 -- 15:12:32 #Program Start
+2017.04.12 -- 15:13:37 #Program Start
+2017.04.12 -- 15:18:34 #Program Start
+2017.04.12 -- 15:21:22 #Program Start
+2017.04.12 -- 15:23:10 #Program Start
+2017.04.12 -- 15:23:32 #Program Start
+2017.04.12 -- 15:24:13 #Program Exit
+2017.04.12 -- 15:25:33 #Program Start
+2017.04.12 -- 15:26:03 #Program Exit
+2017.04.12 -- 15:26:30 #Program Start
+2017.04.12 -- 15:27:24 #Program Exit
+2017.04.12 -- 15:27:26 #Program Start
+2017.04.12 -- 15:27:39 #Program Exit
+2017.04.12 -- 18:22:22 #Program Start
+2017.04.13 -- 12:55:21 #Program Exit
+2017.05.04 -- 17:30:34 #Program Start
+2017.05.04 -- 17:36:01 #Program Start
+2017.05.04 -- 17:36:57 #Program Exit
+2017.05.04 -- 17:36:57 #Program Start
+2017.05.04 -- 17:38:22 #Program Start
+2017.05.04 -- 17:41:08 #Program Start
+2017.05.04 -- 17:42:16 #Program Start
+2017.05.04 -- 17:44:52 #Program Start
+2017.05.04 -- 17:52:15 #Program Start
+2017.05.04 -- 17:53:40 #Program Start
+2017.05.04 -- 17:54:06 #Program Start
+2017.05.04 -- 17:55:43 #Program Start
+2017.05.04 -- 17:56:50 #Program Start
+2017.05.04 -- 17:57:01 #Program Exit
+2017.05.04 -- 17:57:31 #Program Start
+2017.05.04 -- 18:00:12 #Program Start
+2017.05.04 -- 18:01:52 #Program Start
+2017.05.04 -- 18:03:28 #Program Start
+2017.05.04 -- 18:03:36 #Program Exit
+2017.05.04 -- 18:03:52 #Program Start
+2017.05.04 -- 18:05:41 #Program Start
+2017.05.04 -- 18:13:09 #Program Exit
+2017.05.04 -- 18:13:10 #Program Start
+2017.05.04 -- 18:14:13 #Program Exit
+2017.05.04 -- 18:18:02 #Program Start
+2017.05.04 -- 18:20:11 #Program Exit
+2017.05.04 -- 18:20:16 #Program Start
+2017.05.04 -- 18:20:17 #Program Exit
+2017.06.02 -- 11:33:15 #Program Start
+2017.06.02 -- 11:34:12 #Program Exit
+2017.06.02 -- 11:41:48 #Program Start
+2017.06.02 -- 11:42:09 #Program Exit
+2017.06.02 -- 11:45:58 #Program Start
+2017.06.02 -- 11:47:39 #Program Exit
+2017.06.02 -- 11:54:17 #Program Start
+2017.06.02 -- 12:02:07 #Program Exit
+2017.06.02 -- 12:02:18 #Program Start
+2017.06.02 -- 12:02:21 #Program Exit
+2017.06.02 -- 12:02:34 #Program Start
+2017.06.02 -- 12:08:08 #Program Exit
+2017.06.02 -- 12:19:06 #Program Start
+2017.06.02 -- 12:25:34 #Program Exit
+2017.06.02 -- 12:26:10 #Program Start
+2017.06.02 -- 12:27:07 #Program Exit
+2017.06.02 -- 12:27:51 #Program Start
+2017.06.02 -- 14:13:41 #Program Exit
+2017.06.02 -- 14:34:44 #Program Start
+2017.06.02 -- 14:34:47 #Program Exit
+2017.06.13 -- 15:14:54 #Program Start
+2017.06.13 -- 15:15:43 #Continous Run Begin
+2017.06.13 -- 15:15:56 #Continous Run Stop
+2017.06.19 -- 12:27:50 #Program Start
+2017.06.19 -- 12:27:54 #Program Exit
+2017.06.20 -- 14:19:17 #Program Start
+2017.06.20 -- 14:19:53 #Program Exit
+2017.06.20 -- 14:21:37 #Program Start
+2017.06.20 -- 14:32:28 #Program Exit
+2017.06.30 -- 15:43:41 #Program Start
+2017.06.30 -- 15:43:43 #Program Exit
+2017.06.30 -- 15:51:35 #Program Start
+2017.06.30 -- 15:51:38 #Program Exit
+2017.06.30 -- 16:26:59 #Program Start
+2017.06.30 -- 16:27:11 #Program Exit
+2017.07.03 -- 14:44:14 #Program Start
+2017.07.03 -- 16:39:18 #Program Exit
+2017.07.05 -- 16:43:36 #Program Start
+2017.07.05 -- 16:44:13 #Program Exit
+2017.07.05 -- 16:45:15 #Program Start
+2017.07.05 -- 16:46:43 #Program Exit
+2017.07.06 -- 14:55:48 #Program Start
+2017.07.06 -- 15:19:25 #Program Exit
+2017.07.06 -- 17:12:34 #Program Start
+2017.07.06 -- 17:12:42 #Program Exit
+2017.07.06 -- 17:13:04 #Program Start
+2017.07.06 -- 17:13:26 #Program Exit
+2017.07.06 -- 17:13:40 #Program Start
+2017.07.06 -- 17:13:59 #Program Exit
+2017.07.06 -- 17:14:22 #Program Start
+2017.07.06 -- 17:16:41 #Program Exit
+2017.07.06 -- 18:19:41 #Program Start
+2017.07.06 -- 18:20:03 #Program Exit
+2017.07.06 -- 18:26:13 #Program Start
+2017.07.06 -- 18:27:33 #Program Exit
+2017.07.06 -- 18:28:10 #Program Start
+2017.07.06 -- 18:28:11 #Program Exit
+2017.07.06 -- 18:28:46 #Program Start
+2017.07.06 -- 18:29:46 #Program Exit
+2017.07.07 -- 11:34:43 #Program Start
+2017.07.07 -- 11:35:34 #Program Exit
+2017.07.07 -- 11:38:13 #Program Start
+2017.07.07 -- 11:38:37 #Program Exit
+2017.07.07 -- 11:39:00 #Program Start
+2017.07.07 -- 11:39:30 #Program Exit
+2017.07.20 -- 18:20:11 #Program Start
+2017.07.20 -- 18:37:44 #Program Exit
+2017.07.20 -- 18:37:46 #Program Start
+2017.07.20 -- 18:37:59 #Program Exit
+2017.07.20 -- 18:38:39 #Program Start
+2017.07.20 -- 18:38:44 #Program Exit
+2017.07.20 -- 18:52:00 #Program Start
+2017.07.20 -- 18:52:08 #Program Exit
+2017.07.24 -- 11:28:40 #Program Start
+2017.07.24 -- 11:28:42 #Program Exit
+2017.07.24 -- 11:34:37 #Program Start
+2017.07.24 -- 11:34:39 #Program Exit
+2017.07.24 -- 11:50:16 #Program Start
+2017.07.24 -- 11:50:55 #Program Exit
+2017.07.24 -- 11:53:18 #Program Start
+2017.07.24 -- 11:53:45 #Program Exit
+2017.07.24 -- 11:54:11 #Program Start
+2017.07.24 -- 11:54:35 #Program Exit
+2017.07.24 -- 11:56:10 #Program Start
+2017.07.24 -- 11:56:42 #Program Exit
+2017.08.01 -- 11:47:58 #Program Start
+2017.08.01 -- 11:47:59 #Program Exit
+2017.08.01 -- 11:48:17 #Program Start
+2017.08.01 -- 11:49:29 #Program Exit
+2017.08.01 -- 12:14:35 #Program Start
+2017.08.01 -- 12:14:42 #Program Exit
+2017.08.01 -- 12:15:14 #Program Start
+2017.08.01 -- 12:15:19 #Program Exit
+2017.08.01 -- 12:15:39 #Program Start
+2017.08.01 -- 12:15:41 #Program Exit
+2017.08.01 -- 12:15:48 #Program Start
+2017.08.01 -- 12:16:20 #Program Exit
+2017.08.01 -- 12:25:54 #Program Start
+2017.08.01 -- 12:26:10 #Program Exit
+2017.08.01 -- 12:26:49 #Program Start
+2017.08.01 -- 12:27:26 #Program Exit
+2017.08.01 -- 12:28:17 #Program Start
+2017.08.01 -- 12:28:40 #Program Exit
+2017.08.01 -- 12:30:03 #Program Start
+2017.08.01 -- 12:30:12 #Program Exit
+2017.08.01 -- 12:31:14 #Program Start
+2017.08.01 -- 12:31:30 #Program Exit
+2017.08.01 -- 12:35:55 #Program Start
+2017.08.01 -- 12:36:05 #Program Exit
+2017.08.01 -- 13:57:53 #Program Start
+2017.08.01 -- 13:58:38 #Program Exit
+2017.08.01 -- 14:07:26 #Program Start
+2017.08.01 -- 14:07:41 #Program Exit
+2017.08.01 -- 14:42:37 #Program Start
+2017.08.01 -- 14:43:58 #Continous Run Begin
+2017.08.01 -- 14:44:06 #Continous Run Stop
+2017.08.01 -- 14:45:05 #Continous Run Begin
+2017.08.01 -- 14:45:12 #Continous Run Stop
+2017.08.01 -- 14:46:01 #Program Exit
+2017.08.01 -- 15:22:32 #Program Start
+2017.08.01 -- 15:22:37 #Program Exit
+2017.08.01 -- 15:24:32 #Program Start
+2017.08.01 -- 15:24:35 #Program Exit
+2017.08.01 -- 15:28:33 #Program Start
+2017.08.01 -- 15:28:35 #Program Exit
+2017.08.01 -- 16:00:38 #Program Start
+2017.08.01 -- 16:01:22 #Program Exit
+2017.08.01 -- 18:25:25 #Program Start
+2017.08.01 -- 18:26:28 #Program Exit
+2017.08.01 -- 18:27:50 #Program Start
+2017.08.01 -- 18:40:58 #Program Exit
+2017.08.02 -- 15:22:32 #Program Start
+2017.08.02 -- 15:23:41 #Continous Run Begin
+2017.08.02 -- 15:23:50 #Continous Run Stop
+2017.08.02 -- 15:24:42 #Program Exit
+2017.08.04 -- 11:28:30 #Program Start
+2017.08.04 -- 11:29:52 #Continous Run Begin
+2017.08.04 -- 11:30:01 #Continous Run Stop
+2017.08.04 -- 11:33:19 #Program Exit
+2017.08.06 -- 13:57:11 #Program Start
+2017.08.06 -- 13:58:39 #Program Exit
+2017.08.06 -- 14:08:39 #Program Start
+2017.08.06 -- 14:12:29 #Program Exit
+2017.08.08 -- 16:56:05 #Program Start
+2017.08.08 -- 16:57:11 #Continous Run Begin
+2017.08.08 -- 16:57:28 #Continous Run Stop
+2017.08.08 -- 16:57:38 #Continous Run Begin
+2017.08.08 -- 16:58:19 #Continous Run Stop
+2017.08.08 -- 16:58:37 #Continous Run Begin
+2017.08.08 -- 16:58:37 #Scan Begin, cycle to scan 10
+2017.08.08 -- 16:59:27 #Continous Run Stop
+2017.08.08 -- 16:59:30 #Program Exit
+2017.08.11 -- 10:10:30 #Program Start
+2017.08.11 -- 10:10:59 #Program Exit
+2017.08.11 -- 10:23:08 #Program Start
+2017.08.11 -- 10:24:52 #Program Exit
+2017.08.11 -- 10:27:13 #Program Start
+2017.08.11 -- 10:27:37 #Program Exit
+2017.08.11 -- 10:28:50 #Program Start
+2017.08.11 -- 10:29:18 #Program Exit
+2017.08.11 -- 11:59:07 #Program Start
+2017.08.11 -- 12:02:45 #Program Start
+2017.08.11 -- 13:24:40 #Program Start
+2017.08.11 -- 13:25:33 #Program Exit
+2017.08.11 -- 13:30:11 #Program Start
+2017.08.11 -- 13:50:21 #Program Exit
+2017.08.11 -- 13:50:28 #Program Start
+2017.08.11 -- 13:57:02 #Program Exit
+2017.08.11 -- 14:06:32 #Program Start
+2017.08.11 -- 14:08:04 #Program Start
+2017.08.11 -- 14:08:57 #Program Start
+2017.08.11 -- 14:18:01 #Program Start
+2017.08.11 -- 14:18:11 #Program Exit
+2017.08.11 -- 14:18:14 #Program Start
+2017.08.11 -- 14:21:02 #Program Start
+2017.08.11 -- 14:25:47 #Program Start
+2017.08.11 -- 14:27:46 #Program Start
+2017.08.11 -- 14:28:36 #Program Exit
+2017.08.11 -- 14:28:39 #Program Start
+2017.08.11 -- 14:28:47 #Program Exit
+2017.08.11 -- 14:29:51 #Program Start
+2017.08.11 -- 14:33:16 #Program Start
+2017.08.11 -- 14:35:04 #Program Start
+2017.08.11 -- 14:40:00 #Program Start
+2017.08.11 -- 14:43:21 #Program Start
+2017.08.11 -- 14:44:06 #Program Start
+2017.08.11 -- 14:48:32 #Program Start
+2017.08.11 -- 14:51:48 #Program Start
+2017.08.11 -- 14:54:23 #Program Start
+2017.08.11 -- 14:56:43 #Program Start
+2017.08.11 -- 15:02:17 #Program Start
+2017.08.11 -- 16:17:43 #Program Start
+2017.08.11 -- 16:23:20 #Program Start
+2017.08.11 -- 18:40:07 #Program Start
+2017.08.11 -- 18:55:21 #Program Exit
+2017.08.14 -- 19:59:47 #Program Start
+2017.08.14 -- 20:01:08 #Continous Run Begin
+2017.08.14 -- 20:01:16 #Continous Run Stop
+2017.08.14 -- 20:01:17 #Continous Run Begin
+2017.08.14 -- 20:01:40 #Continous Run Stop
+2017.08.14 -- 20:03:58 #Continous Run Begin
+2017.08.14 -- 20:04:43 #Continous Run Stop
+2017.08.14 -- 20:04:57 #Continous Run Begin
+2017.08.14 -- 20:05:28 #Continous Run Stop
+2017.08.14 -- 20:05:58 #Continous Run Begin
+2017.08.14 -- 20:07:26 #Continous Run Stop
+2017.08.14 -- 20:07:43 #Continous Run Begin
+2017.08.14 -- 20:08:53 #Continous Run Stop
+2017.08.14 -- 20:09:17 #Continous Run Begin
+2017.08.14 -- 20:10:45 #Continous Run Stop
+2017.08.14 -- 20:11:32 #Continous Run Begin
+2017.08.14 -- 20:11:50 #Continous Run Stop
+2017.08.14 -- 20:12:16 #Continous Run Begin
+2017.08.14 -- 20:13:09 #Continous Run Stop
+2017.08.14 -- 20:13:32 #Continous Run Begin
+2017.08.14 -- 20:15:18 #Continous Run Stop
+2017.08.14 -- 20:15:40 #Continous Run Begin
+2017.08.14 -- 20:18:18 #Continous Run Stop
+2017.08.14 -- 20:18:39 #Continous Run Begin
+2017.08.14 -- 20:19:14 #Continous Run Stop
+2017.08.14 -- 20:20:19 #Continous Run Begin
+2017.08.14 -- 20:23:33 #Continous Run Stop
+2017.08.14 -- 20:24:57 #Continous Run Begin
+2017.08.14 -- 20:28:28 #Continous Run Stop
+2017.08.14 -- 20:30:11 #Continous Run Begin
+2017.08.14 -- 20:31:04 #Continous Run Stop
+2017.08.14 -- 20:31:33 #Continous Run Begin
+2017.08.14 -- 20:32:10 #Continous Run Stop
+2017.08.14 -- 20:33:42 #Continous Run Begin
+2017.08.14 -- 20:34:19 #Continous Run Stop
+2017.08.14 -- 20:35:48 #Continous Run Begin
+2017.08.14 -- 20:37:55 #Continous Run Stop
+2017.08.14 -- 20:38:10 #Continous Run Begin
+2017.08.14 -- 20:40:35 #Continous Run Stop
+2017.08.14 -- 20:41:17 #Continous Run Begin
+2017.08.14 -- 20:42:30 #Continous Run Stop
+2017.08.14 -- 20:44:06 #Continous Run Begin
+2017.08.14 -- 20:46:31 #Continous Run Stop
+2017.08.14 -- 20:47:29 #Continous Run Begin
+2017.08.14 -- 20:48:05 #Continous Run Stop
+2017.08.14 -- 20:49:23 #Continous Run Begin
+2017.08.14 -- 20:49:41 #Continous Run Stop
+2017.08.14 -- 20:50:38 #Continous Run Begin
+2017.08.14 -- 20:51:13 #Continous Run Stop
+2017.08.14 -- 20:51:43 #Continous Run Begin
+2017.08.14 -- 20:53:11 #Continous Run Stop
+2017.08.14 -- 20:53:34 #Continous Run Begin
+2017.08.14 -- 20:54:26 #Continous Run Stop
+2017.08.15 -- 14:11:21 #Continous Run Begin
+2017.08.15 -- 14:11:29 #Continous Run Stop
+2017.08.15 -- 14:11:53 #Program Start
+2017.08.15 -- 14:23:22 #Program Start
+2017.08.15 -- 14:23:32 #Program Exit
+2017.08.15 -- 14:23:39 #Program Start
+2017.08.15 -- 14:29:14 #Program Exit
+2017.08.15 -- 14:29:47 #Program Start
+2017.08.15 -- 14:47:46 #Program Start
+2017.08.15 -- 14:49:14 #Program Start
+2017.08.15 -- 15:15:00 #Program Start
+2017.08.15 -- 15:16:34 #Continous Run Begin
+2017.08.15 -- 15:16:34 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:16:47 #Continous Run Stop
+2017.08.15 -- 15:17:10 #Continous Run Begin
+2017.08.15 -- 15:17:20 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:18:03 #Continous Run Stop
+2017.08.15 -- 15:21:23 #Continous Run Begin
+2017.08.15 -- 15:21:23 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:21:47 #Continous Run Stop
+2017.08.15 -- 15:30:06 #Continous Run Begin
+2017.08.15 -- 15:30:06 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:30:31 #Continous Run Stop
+2017.08.15 -- 15:33:12 #Continous Run Begin
+2017.08.15 -- 15:33:12 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:33:25 #Continous Run Stop
+2017.08.15 -- 15:33:59 #Continous Run Begin
+2017.08.15 -- 15:33:59 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:34:11 #Continous Run Stop
+2017.08.15 -- 15:35:43 #Continous Run Begin
+2017.08.15 -- 15:35:43 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:35:55 #Continous Run Stop
+2017.08.15 -- 15:37:45 #Continous Run Begin
+2017.08.15 -- 15:37:45 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:37:57 #Continous Run Stop
+2017.08.15 -- 15:38:55 #Program Exit
+2017.08.15 -- 15:40:40 #Program Start
+2017.08.15 -- 15:41:35 #Continous Run Begin
+2017.08.15 -- 15:41:44 #Continous Run Stop
+2017.08.15 -- 15:41:45 #Continous Run Begin
+2017.08.15 -- 15:41:45 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:43:07 #Scan End, cycle complete 12
+2017.08.15 -- 15:43:18 #Continous Run Stop
+2017.08.15 -- 15:47:55 #Program Exit
+2017.08.15 -- 15:47:59 #Program Start
+2017.08.15 -- 15:49:22 #Continous Run Begin
+2017.08.15 -- 15:49:22 #Scan Begin, cycle to scan 12
+2017.08.15 -- 15:50:43 #Scan End, cycle complete 12
+2017.08.15 -- 15:50:50 #Continous Run Stop
+2017.08.15 -- 15:54:42 #Program Exit
+2017.08.16 -- 15:18:41 #Program Start
+2017.08.16 -- 15:19:58 #Continous Run Begin
+2017.08.16 -- 15:20:59 #Continous Run Stop
+2017.08.16 -- 15:22:26 #Continous Run Begin
+2017.08.16 -- 15:22:33 #Continous Run Stop
+2017.08.16 -- 15:23:35 #Continous Run Begin
+2017.08.16 -- 15:24:44 #Continous Run Stop
+2017.08.16 -- 15:28:18 #Continous Run Begin
+2017.08.16 -- 15:28:33 #Continous Run Stop
+2017.08.16 -- 15:44:26 #Continous Run Begin
+2017.08.16 -- 15:44:33 #Continous Run Stop
+2017.08.16 -- 15:44:40 #Continous Run Begin
+2017.08.16 -- 15:45:49 #Continous Run Stop
+2017.08.16 -- 15:46:22 #Continous Run Begin
+2017.08.16 -- 15:46:37 #Continous Run Stop
+2017.08.16 -- 15:46:58 #Continous Run Begin
+2017.08.16 -- 15:48:14 #Continous Run Stop
+2017.08.16 -- 15:48:44 #Continous Run Begin
+2017.08.16 -- 15:49:10 #Continous Run Stop
+2017.08.16 -- 15:49:26 #Continous Run Begin
+2017.08.16 -- 15:49:51 #Continous Run Stop
+2017.08.16 -- 15:52:47 #Continous Run Begin
+2017.08.16 -- 15:53:12 #Continous Run Stop
+2017.08.16 -- 15:54:38 #Continous Run Begin
+2017.08.16 -- 15:54:41 #Continous Run Stop
+2017.08.16 -- 16:03:36 #Continous Run Begin
+2017.08.16 -- 16:03:39 #Continous Run Stop
+2017.08.16 -- 16:04:25 #Continous Run Begin
+2017.08.16 -- 16:05:28 #Continous Run Stop
+2017.08.16 -- 16:31:25 #Continous Run Begin
+2017.08.16 -- 16:31:38 #Continous Run Stop
+2017.08.16 -- 16:47:55 #Continous Run Begin
+2017.08.16 -- 17:00:32 #Continous Run Stop
+2017.08.16 -- 17:46:27 #Continous Run Begin
+2017.08.16 -- 18:03:42 #Continous Run Stop
+2017.08.16 -- 18:04:16 #Continous Run Begin
+2017.08.16 -- 18:04:54 #Continous Run Stop
+2017.08.16 -- 18:05:04 #Continous Run Begin
+2017.08.16 -- 18:05:30 #Continous Run Stop
+2017.08.16 -- 18:07:49 #Continous Run Begin
+2017.08.16 -- 18:11:11 #Continous Run Stop
+2017.08.16 -- 18:11:24 #Continous Run Begin
+2017.08.16 -- 18:46:45 #Continous Run Stop
+2017.08.16 -- 18:47:43 #Continous Run Begin
+2017.08.16 -- 18:48:46 #Continous Run Stop
+2017.08.16 -- 18:48:59 #Continous Run Begin
+2017.08.16 -- 18:49:50 #Continous Run Stop
+2017.08.16 -- 18:50:29 #Continous Run Begin
+2017.08.16 -- 18:51:58 #Continous Run Stop
+2017.08.16 -- 18:55:11 #Continous Run Begin
+2017.08.16 -- 19:06:17 #Continous Run Stop
+2017.08.16 -- 19:11:51 #Continous Run Begin
+2017.08.16 -- 19:12:04 #Continous Run Stop
+2017.08.16 -- 19:12:14 #Continous Run Begin
+2017.08.16 -- 19:12:52 #Continous Run Stop
+2017.08.16 -- 19:14:24 #Continous Run Begin
+2017.08.16 -- 19:18:11 #Continous Run Stop
+2017.08.16 -- 19:19:15 #Continous Run Begin
+2017.08.16 -- 19:21:46 #Continous Run Stop
+2017.08.16 -- 19:22:36 #Continous Run Begin
+2017.08.16 -- 19:23:26 #Continous Run Stop
+2017.08.16 -- 19:24:40 #Continous Run Begin
+2017.08.16 -- 19:25:18 #Continous Run Stop
+2017.08.16 -- 19:25:28 #Continous Run Begin
+2017.08.16 -- 19:25:53 #Continous Run Stop
+2017.08.16 -- 19:26:05 #Continous Run Begin
+2017.08.16 -- 19:26:31 #Continous Run Stop
+2017.08.16 -- 20:12:11 #Continous Run Begin
+2017.08.16 -- 20:15:20 #Continous Run Stop
+2017.08.16 -- 20:15:31 #Continous Run Begin
+2017.08.16 -- 20:17:00 #Continous Run Stop
+2017.08.16 -- 20:17:10 #Continous Run Begin
+2017.08.16 -- 20:17:48 #Continous Run Stop
+2017.08.16 -- 20:18:17 #Continous Run Begin
+2017.08.16 -- 20:18:42 #Continous Run Stop
+2017.08.16 -- 20:19:26 #Continous Run Begin
+2017.08.16 -- 20:19:38 #Continous Run Stop
+2017.08.16 -- 20:21:15 #Continous Run Begin
+2017.08.16 -- 20:21:41 #Continous Run Stop
+2017.08.16 -- 20:22:30 #Continous Run Begin
+2017.08.16 -- 20:23:08 #Continous Run Stop
+2017.08.16 -- 20:23:16 #Continous Run Begin
+2017.08.16 -- 20:23:28 #Continous Run Stop
+2017.08.16 -- 20:23:33 #Continous Run Begin
+2017.08.16 -- 20:23:45 #Continous Run Stop
+2017.08.16 -- 20:23:52 #Continous Run Begin
+2017.08.16 -- 20:24:04 #Continous Run Stop
+2017.08.16 -- 20:24:37 #Continous Run Begin
+2017.08.16 -- 20:24:50 #Continous Run Stop
+2017.08.16 -- 20:25:15 #Continous Run Begin
+2017.08.16 -- 20:25:28 #Continous Run Stop
+2017.08.16 -- 20:25:31 #Continous Run Begin
+2017.08.16 -- 20:25:43 #Continous Run Stop
+2017.08.16 -- 20:25:51 #Continous Run Begin
+2017.08.16 -- 20:26:03 #Continous Run Stop
+2017.08.16 -- 20:27:22 #Continous Run Begin
+2017.08.16 -- 20:27:35 #Continous Run Stop
+2017.08.16 -- 20:28:40 #Continous Run Begin
+2017.08.16 -- 20:28:52 #Continous Run Stop
+2017.08.16 -- 20:29:22 #Continous Run Begin
+2017.08.16 -- 20:33:09 #Continous Run Stop
+2017.08.16 -- 20:35:07 #Continous Run Begin
+2017.08.16 -- 20:35:33 #Continous Run Stop
+2017.08.16 -- 20:38:35 #Continous Run Begin
+2017.08.16 -- 20:41:06 #Continous Run Stop
+2017.08.16 -- 20:44:57 #Continous Run Begin
+2017.08.16 -- 20:48:07 #Continous Run Stop
+2017.08.16 -- 20:48:25 #Continous Run Begin
+2017.08.16 -- 20:55:59 #Continous Run Stop
+2017.08.16 -- 20:57:10 #Continous Run Begin
+2017.08.16 -- 20:57:23 #Continous Run Stop
+2017.08.16 -- 20:58:02 #Continous Run Begin
+2017.08.16 -- 20:58:14 #Continous Run Stop
+2017.08.16 -- 20:58:57 #Continous Run Begin
+2017.08.16 -- 20:59:35 #Continous Run Stop
+2017.08.16 -- 20:59:49 #Continous Run Begin
+2017.08.16 -- 21:00:39 #Continous Run Stop
+2017.08.16 -- 21:01:03 #Continous Run Begin
+2017.08.16 -- 21:02:57 #Continous Run Stop
+2017.08.16 -- 21:03:54 #Continous Run Begin
+2017.08.16 -- 21:05:47 #Continous Run Stop
+2017.08.16 -- 21:06:51 #Continous Run Begin
+2017.08.16 -- 21:08:48 #Continous Run Stop
+2017.08.16 -- 21:09:34 #Continous Run Begin
+2017.08.16 -- 21:10:26 #Continous Run Stop
+2017.08.16 -- 21:10:56 #Continous Run Begin
+2017.08.16 -- 21:14:45 #Continous Run Stop
+2017.08.16 -- 21:15:43 #Continous Run Begin
+2017.08.16 -- 21:19:16 #Continous Run Stop
+2017.08.16 -- 21:19:36 #Continous Run Begin
+2017.08.16 -- 21:24:50 #Continous Run Stop
+2017.08.16 -- 21:29:41 #Continous Run Begin
+2017.08.16 -- 21:29:50 #Continous Run Stop
+2017.08.16 -- 21:30:36 #Continous Run Begin
+2017.08.16 -- 21:34:21 #Continous Run Stop
+2017.08.16 -- 22:14:45 #Continous Run Begin
+2017.08.16 -- 22:15:20 #Continous Run Stop
+2017.08.16 -- 22:16:18 #Continous Run Begin
+2017.08.16 -- 22:18:11 #Continous Run Stop
+2017.08.16 -- 22:18:23 #Continous Run Begin
+2017.08.16 -- 22:26:25 #Continous Run Stop
+2017.08.16 -- 22:30:23 #Continous Run Begin
+2017.08.16 -- 22:31:35 #Continous Run Stop
+2017.08.16 -- 22:32:25 #Continous Run Begin
+2017.08.16 -- 22:32:44 #Continous Run Stop
+2017.08.16 -- 22:33:28 #Continous Run Begin
+2017.08.16 -- 22:33:48 #Continous Run Stop
+2017.08.16 -- 22:34:58 #Continous Run Begin
+2017.08.16 -- 22:57:36 #Continous Run Stop
+2017.08.16 -- 22:59:37 #Continous Run Begin
+2017.08.16 -- 22:59:44 #Continous Run Stop
+2017.08.16 -- 22:59:57 #Continous Run Begin
+2017.08.16 -- 23:00:49 #Continous Run Stop
+2017.08.16 -- 23:01:55 #Continous Run Begin
+2017.08.16 -- 23:03:20 #Continous Run Stop
+2017.08.16 -- 23:03:28 #Continous Run Begin
+2017.08.16 -- 23:06:38 #Continous Run Stop
+2017.08.16 -- 23:06:49 #Continous Run Begin
+2017.08.16 -- 23:08:08 #Continous Run Stop
+2017.08.17 -- 14:30:45 #Continous Run Begin
+2017.08.17 -- 14:32:10 #Continous Run Stop
+2017.08.17 -- 14:32:49 #Continous Run Begin
+2017.08.17 -- 14:34:27 #Continous Run Stop
+2017.08.17 -- 15:23:51 #Continous Run Begin
+2017.08.17 -- 15:23:58 #Continous Run Stop
+2017.08.17 -- 15:31:37 #Program Exit
+2017.08.17 -- 15:33:02 #Program Start
+2017.08.17 -- 15:33:04 #Program Exit
+2017.08.17 -- 17:11:48 #Program Start
+2017.08.17 -- 17:11:52 #Program Exit
+2017.08.17 -- 17:14:40 #Program Start
+2017.08.17 -- 17:15:19 #Program Start
+2017.08.17 -- 17:20:06 #Program Start
+2017.08.17 -- 17:20:59 #Program Start
+2017.08.17 -- 17:21:01 #Program Exit
+2017.08.17 -- 17:25:06 #Program Start
+2017.08.17 -- 17:36:56 #Program Start
+2017.08.17 -- 17:37:35 #Program Start
+2017.08.17 -- 17:48:15 #Program Start
+2017.08.17 -- 18:09:49 #Program Start
+2017.08.17 -- 18:10:14 #Program Exit
+2017.08.17 -- 18:12:25 #Program Start
+2017.08.17 -- 18:15:13 #Program Start
+2017.08.17 -- 18:18:43 #Program Start
+2017.08.18 -- 15:15:50 #Program Start
+2017.08.18 -- 15:16:07 #Program Exit
+2017.08.18 -- 15:19:19 #Program Start
+2017.08.18 -- 15:22:50 #Program Exit
+2017.08.18 -- 15:57:41 #Program Start
+2017.08.18 -- 15:58:03 #Program Exit
+2017.08.18 -- 15:59:01 #Program Start
+2017.08.18 -- 15:59:18 #Program Exit
+2017.08.18 -- 16:02:46 #Program Start
+2017.08.18 -- 16:03:42 #Program Exit
+2017.08.18 -- 16:03:48 #Program Start
+2017.08.18 -- 16:04:26 #Program Exit
+2017.08.18 -- 16:05:28 #Program Start
+2017.08.18 -- 16:05:55 #Program Exit
+2017.08.18 -- 16:06:19 #Program Start
+2017.08.18 -- 16:22:01 #Program Exit
+2017.08.18 -- 16:22:21 #Program Start
+2017.08.18 -- 16:34:42 #Program Exit
+2017.08.18 -- 17:10:24 #Program Start
+2017.08.18 -- 17:17:05 #Program Start
+2017.08.18 -- 17:18:15 #Program Exit
+2017.08.18 -- 17:18:41 #Program Start
+2017.08.18 -- 17:19:29 #Continous Run Begin
+2017.08.18 -- 17:19:39 #Continous Run Stop
+2017.08.18 -- 17:20:38 #Continous Run Begin
+2017.08.18 -- 17:21:30 #Continous Run Stop
+2017.08.18 -- 17:27:12 #Continous Run Begin
+2017.08.18 -- 17:27:23 #Continous Run Stop
+2017.08.18 -- 17:36:34 #Continous Run Begin
+2017.08.18 -- 17:36:42 #Continous Run Stop
+2017.08.18 -- 17:39:42 #Program Exit
+2017.08.19 -- 13:10:23 #Program Start
+2017.08.19 -- 13:10:30 #Program Exit
+2017.08.19 -- 13:33:36 #Program Start
+2017.08.19 -- 14:15:05 #Program Exit
+2017.08.20 -- 12:57:57 #Program Start
+2017.08.20 -- 13:31:18 #Program Start
+2017.08.20 -- 13:34:49 #Program Exit
+2017.08.20 -- 14:31:22 #Program Start
+2017.08.20 -- 14:32:57 #Program Exit
+2017.08.20 -- 14:51:02 #Program Start
+2017.08.20 -- 14:52:34 #Program Exit
+2017.08.20 -- 16:00:12 #Program Start
+2017.08.20 -- 16:00:13 #Program Exit
+2017.08.20 -- 16:10:23 #Program Start
+2017.08.20 -- 16:10:25 #Program Exit
+2017.08.20 -- 16:16:57 #Program Start
+2017.08.20 -- 16:17:34 #Program Exit
+2017.08.20 -- 17:22:47 #Program Start
+2017.08.20 -- 17:25:13 #Program Exit
+2017.08.21 -- 11:29:51 #Program Start
+2017.08.21 -- 11:30:15 #Program Exit
+2017.08.29 -- 17:37:48 #Program Start
+2017.08.29 -- 18:16:37 #Program Exit
+2017.08.30 -- 14:39:29 #Program Start
+2017.08.30 -- 16:10:45 #Program Exit
+2017.08.30 -- 16:49:51 #Program Start
+2017.08.30 -- 17:57:11 #Program Exit
+2017.08.30 -- 18:21:58 #Program Start
+2017.08.30 -- 18:31:38 #Program Exit
+2017.08.30 -- 18:31:44 #Program Start
+2017.08.30 -- 18:32:16 #Program Exit
+2017.08.30 -- 18:32:28 #Program Start
+2017.08.30 -- 18:34:32 #Program Exit
+2017.09.08 -- 14:16:57 #Program Start
+2017.09.08 -- 14:37:01 #Program Exit
+2017.09.12 -- 10:49:53 #Program Start
+2017.09.12 -- 10:51:43 #Program Exit
+2017.09.12 -- 11:57:46 #Program Start
+2017.09.12 -- 12:07:40 #Program Exit
+2017.09.12 -- 12:11:18 #Program Start
+2017.09.12 -- 12:13:24 #Program Exit
+2017.09.12 -- 13:30:42 #Program Start
+2017.09.12 -- 13:49:58 #Program Exit
+2017.09.13 -- 14:24:33 #Program Start
+2017.09.13 -- 14:24:44 #Program Exit
+2017.09.13 -- 15:45:40 #Program Start
+2017.09.13 -- 15:47:00 #Program Exit
+2017.09.13 -- 15:47:13 #Program Start
+2017.09.13 -- 15:47:22 #Program Exit
+2017.09.14 -- 14:11:36 #Program Start
+2017.09.14 -- 14:13:03 #Program Exit
+2017.09.14 -- 14:14:08 #Program Start
+2017.09.14 -- 14:15:56 #Program Exit
+2017.09.14 -- 14:23:02 #Program Start
+2017.09.14 -- 15:06:12 #Program Exit
+2017.09.15 -- 17:52:07 #Program Start
+2017.09.15 -- 17:52:28 #Program Exit
+2017.09.15 -- 17:52:53 #Program Start
+2017.09.15 -- 17:53:05 #Program Exit
+2017.09.15 -- 17:53:14 #Program Start
+2017.09.15 -- 17:53:41 #Program Exit
+2017.09.15 -- 17:58:14 #Program Start
+2017.09.15 -- 17:59:50 #Program Exit
+2017.09.15 -- 18:01:18 #Program Start
+2017.09.15 -- 18:01:50 #Program Exit
+2017.09.21 -- 16:26:34 #Program Start
+2017.09.21 -- 16:27:00 #Program Exit
+2017.09.22 -- 11:06:52 #Program Start
+2017.09.22 -- 11:09:17 #Continous Run Begin
+2017.09.22 -- 11:12:39 #Program Start
+2017.09.22 -- 11:13:25 #Continous Run Begin
+2017.09.22 -- 11:17:54 #Program Start
+2017.09.22 -- 11:18:33 #Continous Run Begin
+2017.09.22 -- 11:20:52 #Program Start
+2017.09.22 -- 11:20:56 #Program Exit
+2017.09.22 -- 11:21:44 #Program Start
+2017.09.22 -- 11:22:10 #Continous Run Begin
+2017.09.22 -- 11:24:35 #Program Start
+2017.09.22 -- 11:25:01 #Continous Run Begin
+2017.09.22 -- 11:25:11 #Continous Run Stop
+2017.09.22 -- 11:26:00 #Program Exit
+2017.09.22 -- 11:26:39 #Program Start
+2017.09.22 -- 11:30:42 #Program Exit
+2017.09.22 -- 11:30:46 #Program Start
+2017.09.22 -- 11:31:42 #Continous Run Begin
+2017.09.22 -- 11:32:12 #Continous Run Stop
+2017.09.22 -- 11:32:20 #Program Exit
+2017.10.10 -- 15:04:39 #Program Start
+2017.10.10 -- 15:04:42 #Program Exit
+2017.10.16 -- 10:23:04 #Program Start
+2017.10.16 -- 10:23:13 #Program Exit
+2017.10.16 -- 10:41:45 #Program Start
+2017.10.16 -- 10:42:01 #Program Exit
+2017.10.16 -- 10:42:40 #Program Start
+2017.10.16 -- 10:42:58 #Program Exit
+2017.10.19 -- 15:16:24 #Program Start
+2017.10.19 -- 15:16:26 #Program Exit
+2017.10.20 -- 13:35:17 #Program Start
+2017.10.20 -- 13:35:21 #Program Exit
+2017.10.20 -- 13:36:32 #Program Start
+2017.10.20 -- 13:39:18 #Program Exit
+2017.10.20 -- 14:46:04 #Program Start
+2017.10.20 -- 14:49:41 #Program Exit
+2017.10.20 -- 14:56:10 #Program Start
+2017.10.20 -- 15:03:34 #Program Start
+2017.10.20 -- 15:05:53 #Program Start
+2017.10.20 -- 15:11:19 #Program Exit
+2017.10.20 -- 15:25:14 #Program Start
+2017.10.20 -- 15:43:36 #Program Exit
+2017.10.20 -- 16:39:21 #Program Start
+2017.10.20 -- 16:41:58 #Program Exit
+2017.10.20 -- 16:42:29 #Program Start
+2017.10.20 -- 16:44:09 #Program Exit
+2017.10.20 -- 16:44:17 #Program Start
+2017.10.20 -- 16:46:08 #Program Exit
+2017.10.20 -- 16:50:25 #Program Start
+2017.10.20 -- 17:07:15 #Program Exit
+2017.10.20 -- 17:07:24 #Program Start
+2017.10.20 -- 17:07:30 #Program Exit
+2017.10.20 -- 17:33:13 #Program Start
+2017.10.20 -- 17:35:07 #Program Exit
+2017.10.20 -- 17:35:10 #Program Start
+2017.10.20 -- 17:36:55 #Continous Run Begin
+2017.10.20 -- 17:37:24 #Continous Run Stop
+2017.10.20 -- 17:38:03 #Continous Run Begin
+2017.10.20 -- 17:38:49 #Continous Run Stop
+2017.10.20 -- 17:43:56 #Program Exit
+2017.10.20 -- 17:52:58 #Program Start
+2017.10.20 -- 17:53:25 #Continous Run Begin
+2017.10.20 -- 17:54:19 #Continous Run Stop
+2017.10.20 -- 17:59:37 #Program Exit
+2017.10.20 -- 18:02:28 #Program Start
+2017.10.20 -- 18:02:46 #Continous Run Begin
+2017.10.20 -- 18:04:31 #Continous Run Stop
+2017.10.20 -- 18:07:28 #Program Exit
+2017.10.20 -- 18:07:35 #Program Start
+2017.10.20 -- 18:08:00 #Program Exit
+2017.10.20 -- 18:10:01 #Program Start
+2017.10.20 -- 18:10:19 #Continous Run Begin
+2017.10.20 -- 18:10:59 #Continous Run Stop
+2017.10.20 -- 18:11:00 #Program Exit
+2017.10.20 -- 18:11:14 #Program Start
+2017.10.20 -- 18:11:32 #Continous Run Begin
+2017.10.20 -- 18:12:31 #Continous Run Stop
+2017.10.20 -- 18:14:27 #Program Exit
+2017.10.20 -- 18:14:34 #Program Start
+2017.10.20 -- 18:14:40 #Program Exit
+2017.10.27 -- 16:49:45 #Program Start
+2017.10.27 -- 16:59:23 #Program Exit
+2017.10.27 -- 17:09:42 #Program Start
+2017.10.27 -- 17:10:33 #Offline Continous Run
+2017.10.27 -- 17:10:33 #Offline Scan, total cycle 5
+2017.10.27 -- 17:13:15 #Program Start
+2017.10.27 -- 17:13:39 #Offline Continous Run
+2017.10.27 -- 17:13:39 #Offline Scan, total cycle 5
+2017.10.27 -- 17:15:20 #Program Start
+2017.10.27 -- 17:16:02 #Offline Continous Run
+2017.10.27 -- 17:16:02 #Offline Scan, total cycle 5
+2017.10.27 -- 17:16:38 #Program Exit
+2017.10.27 -- 17:16:44 #Program Start
+2017.10.27 -- 17:17:16 #Offline Continous Run
+2017.10.27 -- 17:17:16 #Offline Scan, total cycle 51
+2017.10.27 -- 18:30:35 #Program Start
+2017.10.27 -- 18:31:32 #Offline Continous Run
+2017.10.27 -- 18:31:32 #Offline Scan, total cycle 5
+2017.10.27 -- 18:33:17 #Program Start
+2017.10.27 -- 18:33:37 #Offline Continous Run
+2017.10.27 -- 18:33:37 #Offline Scan, total cycle 5
+2017.10.27 -- 18:38:14 #Program Start
+2017.10.27 -- 18:38:46 #Offline Continous Run
+2017.10.27 -- 18:38:46 #Offline Scan, total cycle 5
+2017.10.27 -- 18:43:48 #Program Start
+2017.10.27 -- 18:44:03 #Program Exit
+2017.10.27 -- 18:44:52 #Program Start
+2017.10.27 -- 18:45:17 #Offline Continous Run
+2017.10.27 -- 18:45:17 #Offline Scan, total cycle 5
+2017.10.27 -- 19:39:29 #Program Exit
+2017.10.31 -- 16:05:36 #Program Start
+2017.10.31 -- 16:07:22 #Program Exit
+2017.10.31 -- 16:10:05 #Program Start
+2017.10.31 -- 16:26:16 #Program Exit
+2017.10.31 -- 16:51:47 #Program Start
+2017.10.31 -- 16:51:58 #Program Exit
+2017.10.31 -- 16:52:23 #Program Start
+2017.10.31 -- 16:52:31 #Program Exit
+2017.10.31 -- 16:52:38 #Program Start
+2017.10.31 -- 16:52:52 #Program Exit
+2017.10.31 -- 16:52:59 #Program Start
+2017.10.31 -- 16:56:03 #Program Exit
+2017.10.31 -- 17:03:46 #Program Start
+2017.10.31 -- 17:04:03 #Program Exit
+2017.10.31 -- 17:10:09 #Program Start
+2017.10.31 -- 17:10:22 #Program Exit
+2017.10.31 -- 17:11:52 #Program Start
+2017.10.31 -- 17:12:26 #Program Exit
+2017.10.31 -- 17:13:17 #Program Start
+2017.10.31 -- 17:13:40 #Program Exit
+2017.11.02 -- 10:22:20 #Program Start
+2017.11.02 -- 10:22:24 #Program Exit
+2017.11.23 -- 10:58:28 #Program Start
+2017.11.23 -- 11:13:33 #Program Exit
+2017.11.23 -- 11:24:53 #Program Start
+2017.11.23 -- 11:39:49 #Program Exit
+2017.11.23 -- 11:39:59 #Program Start
+2017.11.23 -- 11:41:25 #Program Exit
+2017.11.23 -- 11:45:03 #Program Start
+2017.11.23 -- 11:45:05 #Program Exit
+2017.11.23 -- 11:45:20 #Program Start
+2017.11.23 -- 11:46:09 #Program Exit
+2017.11.23 -- 11:48:05 #Program Start
+2017.11.23 -- 11:51:18 #Program Exit
+2017.11.23 -- 11:55:48 #Program Start
+2017.11.23 -- 12:06:38 #Program Exit
+2017.11.23 -- 12:07:44 #Program Start
+2017.11.23 -- 12:09:55 #Program Exit
+2017.11.23 -- 12:13:00 #Program Start
+2017.11.23 -- 12:13:40 #Program Exit
+2017.11.23 -- 12:17:20 #Program Start
+2017.11.23 -- 12:19:24 #Program Exit
+2017.11.30 -- 14:15:23 #Program Start
+2017.11.30 -- 14:17:21 #Program Exit
+2017.11.30 -- 14:19:05 #Program Start
+2017.11.30 -- 14:19:07 #Program Exit
+2017.11.30 -- 14:23:22 #Program Start
+2017.11.30 -- 14:24:42 #Program Exit
+2017.11.30 -- 14:25:06 #Program Start
+2017.11.30 -- 14:27:51 #Program Exit
+2017.11.30 -- 14:32:56 #Program Start
+2017.11.30 -- 14:33:37 #Program Exit
+2017.11.30 -- 14:34:46 #Program Start
+2017.11.30 -- 14:36:00 #Program Exit
+2017.11.30 -- 14:36:56 #Program Start
+2017.11.30 -- 14:37:32 #Program Exit
+2017.11.30 -- 14:38:44 #Program Start
+2017.11.30 -- 14:38:57 #Program Exit
+2017.11.30 -- 14:39:43 #Program Start
+2017.11.30 -- 14:40:10 #Program Exit
+2017.11.30 -- 14:42:46 #Program Start
+2017.11.30 -- 14:45:10 #Program Exit
+2017.11.30 -- 14:45:45 #Program Start
+2017.11.30 -- 14:47:21 #Program Exit
+2017.11.30 -- 14:47:30 #Program Start
+2017.11.30 -- 14:49:06 #Program Exit
+2017.11.30 -- 14:49:08 #Program Start
+2017.11.30 -- 14:50:52 #Program Exit
+2017.11.30 -- 14:51:02 #Program Start
+2017.11.30 -- 14:53:17 #Program Exit
+2017.11.30 -- 14:53:19 #Program Start
+2017.11.30 -- 14:57:36 #Program Exit
+2017.11.30 -- 14:57:36 #Program Start
+2017.11.30 -- 15:01:58 #Program Exit
+2017.11.30 -- 15:08:14 #Program Start
+2017.11.30 -- 15:09:15 #Program Exit
+2017.11.30 -- 15:10:06 #Program Start
+2017.11.30 -- 15:10:08 #Program Exit

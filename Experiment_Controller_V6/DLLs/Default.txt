@@ -1,0 +1,36 @@
+//Default Setting of Experiment Controller
+
+[CPU Type]
+T12
+[Number of Analog Output Cards]
+3
+[Number of Digital Output Cards]
+1
+[Online Status]
+online
+[Pre-Calculation]
+off
+[TCP Switch]
+off
+[TCP Port NO.]
+0
+[Voltage Resolution] //In 16-bit 1=0.305mV (0~65535)
+0
+[AutoSave Enable]
+No
+[AutoSave Setting Enable]
+Yes
+[AutoSave Description]
+Hello World
+[AutoSave Path]
+D:/Cycle_data
+[Pixelfly Camera Image Number]
+3
+[Pixelfly Camera Trigger Mode]
+TTL
+[Pixelfly Camera Save Path]
+D:/Experiment Data/Abs_Img
+[Pixelfly Camera File Name]
+MOT_image_*_YYYYMMDDhhmmss.PNG
+[Pixelfly Camera Exposure Time]
+1
