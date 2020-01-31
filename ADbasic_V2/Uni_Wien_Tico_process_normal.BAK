@@ -1,0 +1,45 @@
+'<TiCoBasic Header, Headerversion 001.001>
+' Process_Number                 = 1
+' Initial_Processdelay           = 1000
+' Eventsource                    = Timer
+' Priority                       = High
+' Version                        = 1
+' TiCoBasic_Version              = 1.5.0
+' Optimize                       = Yes
+' Optimize_Level                 = 2
+' Info_Last_Save                 = FERMI-PC  fermi-PC\fermi
+'<Header End>
+#Include DIO32TiCo.inc 
+
+dim i as integer
+Init:
+  Set_LED(1)   
+  DigProg(01111b)                                           ' Set channels 0.31 as outputs
+ 
+  Processdelay = 25                                         '  2MHz
+  'Processdelay = 250                                        '  0.2MHz
+  PAR_1 = 0
+
+  i = 1
+Event:
+  
+  i = i xor 1
+
+  if ((par_1 and 1b) = 0) then 
+    Digout_Long(PAR_1) 
+  else
+    Digout_Long(PAR_1 xor (i))
+    'bit 0 at digout = freq. signal ,  switched on/off with bit '0' of par_1,  0> off ,  1> on
+    'bit 1 at digout = bit 1 of  Par_1
+    'bit 2 at digout = bit 2 of  Par_1
+    'bit 3 at digout = bit 3 of  Par_1
+    ' .......
+    'bit 31 at digout = bit 31 of  Par_1
+    
+    
+  endif
+  
+  
+Finish:
+  Set_LED(0)   
+  
